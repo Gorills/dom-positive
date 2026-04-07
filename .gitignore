@@ -1,0 +1,50 @@
+# Composer
+/vendor
+
+# Node
+/node_modules
+npm-debug.log
+yarn-error.log
+
+# Environment
+.env
+.env.backup
+.env.*.local
+
+# IDE / Cursor
+.idea
+.vscode
+.cursor
+*.swp
+*.swo
+*~
+
+# Laravel / runtime
+/storage/*.key
+/storage/logs/*
+!/storage/logs/.gitignore
+/storage/framework/cache/*
+!/storage/framework/cache/.gitignore
+/storage/framework/sessions/*
+!/storage/framework/sessions/.gitignore
+/storage/framework/views/*
+!/storage/framework/views/.gitignore
+/bootstrap/cache/*
+!/bootstrap/cache/.gitignore
+
+# Медиа (передаются архивом, не через git)
+/public/images
+/public/assets
+/public/fonts
+/public/documents
+/public/img
+/public/media
+
+# Deploy / local
+REVISION
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+
+# Docker (опционально: не коммитить большой дамп — раскомментируйте при необходимости)
+# /docker/mysql/init/*.sql

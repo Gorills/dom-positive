@@ -1,0 +1,327 @@
+html.freeze {
+  overflow: hidden;
+}
+.modal-book {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  overflow-y: scroll;
+  z-index: 2001;
+  transform: translateY(-100%);
+  transition: transform .4s ease 0s;
+}
+.modal-book.opened {
+  transform: translateY(0);
+}
+.book {
+  position: relative;
+  width: 100%;
+  max-width: 400px;
+  box-sizing: border-box;
+  padding: 50px;
+  background: #3C2945;
+  border-radius: 30px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+  font-family: '__Panton_5';
+}
+.book__form {
+  font-family: '__Panton_5';
+  color: #fff;
+}
+.book__close {
+  position: absolute;
+  top: 15px;
+  right: 15px;
+  /*background-image: url(../images/close_white_2x.png);*/
+  background-image: url(../images/close_musemenuprob_2x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 44px;
+  height: 41px;
+  cursor: pointer;
+  transition: all ease 0.3s;
+}
+.book__close:hover {
+  opacity: 0.7;
+}
+.book__title {
+  color: #fff;
+  text-align: center;
+  font-size: 32px;
+  margin-bottom: 40px
+}
+.book__input {
+  position: relative;
+  margin-bottom: 30px;
+}
+.book__input input {
+  background: transparent;
+  height: 54px;
+  line-height: 54px;
+  border: #fff 2px solid;
+  box-sizing: border-box;
+  padding: 5px 20px;
+  font-size: 16px;
+  width: 100%;
+  color: #fff;
+}
+.book__input input:focus {
+  border-color: #FA9E3C;
+}
+.book__input input::placeholder {
+  color: #fff;
+}
+.book__input input:focus::placeholder {
+  opacity: 0;
+}
+.book__input .book__placeholder {
+  position: absolute;
+  top: -6px;
+  left: 15px;
+  color: #FA9E3C;
+  font-size: 12px;
+  padding: 0 5px;
+  background: #3C2945;
+  opacity: 0;
+}
+.book__input input:focus ~ .book__placeholder {
+  opacity: 1;
+}
+.book .checkbox {
+  display: block;
+  position: relative;
+  padding-top: 5px;
+  padding-left: 35px;
+  margin-bottom: 30px;
+  cursor: pointer;
+  font-size: 12px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  color: #fff;
+}
+.book .checkbox a {
+  color: #1FBCE5;
+  text-decoration: none;
+}
+.book .checkbox a:hover {
+  text-decoration: underline;
+}
+.checkbox input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+  height: 0;
+  width: 0;
+}
+.checkmark {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 20px;
+  width: 20px;
+  border: #FA9E3C 2px solid;
+}
+.checkbox input:checked ~ .checkmark {
+  background-color: #FA9E3C;
+}
+.checkmark:after {
+  content: "";
+  position: absolute;
+  display: none;
+}
+.checkbox input:checked ~ .checkmark:after {
+  display: block;
+}
+.checkbox .checkmark:after {
+  left: 7px;
+  top: 2px;
+  width: 5px;
+  height: 10px;
+  border: solid white;
+  border-width: 0 2px 2px 0;
+  -webkit-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+.checkbox.is-error .checkmark {
+  border-color: #FE0358;
+}
+.checkbox.is-error .label-error {
+  color: #FE0358;
+  padding-top: 5px;
+  display: none;
+}
+.book__submit {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #964597;
+  text-transform: uppercase;
+  font-size: 17px;
+  font-weight: 700;
+  color: #fff;
+  height: 54px;
+  width: 100%;
+  border-radius: 28px;
+  transition: all ease 0.3s;
+  cursor: pointer;
+}
+.book__submit:hover {
+  background: #833384
+}
+.book__input .label-error {
+  position: absolute;
+  left: 0;
+  bottom: -20px;
+  font-size: 12px;
+  color: #FE0358;
+}
+.book__input.is-error input {
+  border-color: #FE0358;
+}
+.book__input.is-error input::placeholder {
+  opacity: 0
+}
+.book__input.is-error .book__placeholder {
+  color: #FE0358;
+  opacity: 1;
+}
+
+.flat__book {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 280px;
+  height: 55px;
+  border-radius: 28px;
+  margin: 0 auto;
+  color: #fff;
+  font-size: 17px;
+  font-weight: 700;
+  text-transform: uppercase;
+  background: #FF0058;
+  transition: all ease 0.3s;
+  cursor: pointer;
+}
+.flat__book:hover {
+  background: #964597;
+}
+
+.flat__book.abs {
+  position: absolute;
+  top: 450px;
+  left: 50%;
+  margin: 2px 0 0 -590px;
+}
+
+
+.modal-thanks {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  z-index: 2001;
+  transform: translateY(-100%);
+  transition: transform .4s ease 0s;
+}
+.modal-thanks.opened {
+  transform: translateY(0);
+}
+.thanks {
+  position: relative;
+  width: 100%;
+  max-width: 400px;
+  box-sizing: border-box;
+  padding: 50px;
+  background: #3C2945;
+  border-radius: 30px;
+  text-align: center;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+  font-family: '__Panton_5';
+}
+.thanks__icon {
+  display: inline-block;
+  width: 68px;
+  height: 60px;
+  background-image: url(../images/info.svg);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.thanks__text {
+  max-width: 280px;
+  font-size: 16px;
+  line-height: 21px;
+  color: #fff;
+  margin:40px auto 0;
+}
+.thanks__close {
+  display: inline-block;
+  margin: 20px auto 0;
+  font-size: 16px;
+  line-height: 21px;
+  color: #1FBCE5;
+  transition: all ease 0.3s;
+  cursor: pointer;
+}
+.thanks__close:hover {
+  color: #44BEDE;
+}
+
+
+@media screen and (max-width: 767px) {
+  .modal-book, .modal-thanks {
+    padding: 0 15px;
+    box-sizing: border-box;
+    overflow-y: auto;
+    top: 0;
+  }
+  .book, .thanks {
+    padding: 30px 15px;
+  }
+  .book__title {
+    font-size: 21px;
+    line-height: 1;
+    margin-bottom: 20px;
+  }
+  .book__input {
+  }
+  .book__input input {
+    height: 40px;
+    line-height: 40px;
+    font-size: 14px;
+  }
+.book__submit {
+  font-size: 16px;
+  height: 36px;
+
+}
+
+
+}

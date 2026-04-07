@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg xmlns="http://www.w3.org/2000/svg"><defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+  </defs><symbol id="close" viewBox="-4411.816 6704.823 24.33 24.335">
+  
+  <path id="Path_302" data-name="Path 302" class="cls-1" d="M57.74,35.246a3.1,3.1,0,0,0-4.393,0L46.493,42.1l-6.862-6.863a3.107,3.107,0,0,0-4.393,4.394L42.1,46.5l-6.862,6.863a3.107,3.107,0,0,0,4.393,4.394l6.862-6.863,6.862,6.863a3.107,3.107,0,1,0,4.393-4.394L50.886,46.5l6.862-6.863A3.106,3.106,0,0,0,57.74,35.246Z" transform="translate(-4446.144 6670.495)"/>
+</symbol></svg>
