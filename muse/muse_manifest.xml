@@ -1,0 +1,1392 @@
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" ftp_hostname="sftp://dom-pozitiv.ru" ftp_rootfolder="//home/brother/dom-pozitiv.ru/www/muse" exportTarget="FTP" domain="http://дом-позитив.рф" resolutions="1x,2x" timestamp="1519578545328">
+  <folder name="css">
+    <file name="site_global.css" crc="4032550449"/>
+    <file name="master_top.css" crc="4079322621" ref="infrastruktura_rumyantsevo:viberite_kvartiru_v_gk_pozitiv:index:5-flat-section:kvartiry_v_rumyantsevo:hod-stroitelstva:news-details:pano-1:proektnaya_deklaraсia:kontakty:flat-card:novosti_kvartiry_v_rumyantsevo:flats-parametrics:ipoteka:o_proekte_gk_pozitiv:4-flat-section:kak_kupit_kvartiru:8-flat-section:o-novoy-moskve"/>
+    <file name="nomq_preview_master_top.css" crc="4022659591" ref="infrastruktura_rumyantsevo:viberite_kvartiru_v_gk_pozitiv:index:5-flat-section:kvartiry_v_rumyantsevo:hod-stroitelstva:news-details:pano-1:proektnaya_deklaraсia:kontakty:flat-card:novosti_kvartiry_v_rumyantsevo:flats-parametrics:ipoteka:o_proekte_gk_pozitiv:4-flat-section:kak_kupit_kvartiru:8-flat-section:o-novoy-moskve"/>
+    <file name="infrastruktura_rumyantsevo.css" crc="173249885" ref="infrastruktura_rumyantsevo"/>
+    <file name="nomq_infrastruktura_rumyantsevo.css" crc="217158379" ref="infrastruktura_rumyantsevo"/>
+    <file name="viberite_kvartiru_v_gk_pozitiv.css" crc="3864871018" ref="viberite_kvartiru_v_gk_pozitiv"/>
+    <file name="nomq_viberite_kvartiru_v_gk_pozitiv.css" crc="4041468331" ref="viberite_kvartiru_v_gk_pozitiv"/>
+    <file name="index.css" crc="4291664238" ref="index"/>
+    <file name="nomq_index.css" crc="303816422" ref="index"/>
+    <file name="5-flat-section.css" crc="4183153610" ref="5-flat-section"/>
+    <file name="nomq_5-flat-section.css" crc="18937349" ref="5-flat-section"/>
+    <file name="kvartiry_v_rumyantsevo.css" crc="4131842815" ref="kvartiry_v_rumyantsevo"/>
+    <file name="nomq_kvartiry_v_rumyantsevo.css" crc="481555893" ref="kvartiry_v_rumyantsevo"/>
+    <file name="hod-stroitelstva.css" crc="278070015" ref="hod-stroitelstva"/>
+    <file name="nomq_hod-stroitelstva.css" crc="4250836628" ref="hod-stroitelstva"/>
+    <file name="news-details.css" crc="4166613289" ref="news-details"/>
+    <file name="nomq_news-details.css" crc="4227204613" ref="news-details"/>
+    <file name="callbackform.css" crc="33908873" ref="callbackform"/>
+    <file name="pano-1.css" crc="4013019769" ref="pano-1"/>
+    <file name="nomq_pano-1.css" crc="3830028461" ref="pano-1"/>
+    <file name="proektnaya_deklara_ia.css" crc="4273818487" ref="proektnaya_deklaraсia"/>
+    <file name="nomq_proektnaya_deklara_ia.css" crc="309498184" ref="proektnaya_deklaraсia"/>
+    <file name="gallereya_dom_pozitiv.css" crc="3781682363" ref="gallereya_dom_pozitiv"/>
+    <file name="kontakty.css" crc="4181741481" ref="kontakty"/>
+    <file name="nomq_kontakty.css" crc="4087578342" ref="kontakty"/>
+    <file name="flat-card.css" crc="82598660" ref="flat-card"/>
+    <file name="nomq_flat-card.css" crc="368852950" ref="flat-card"/>
+    <file name="novosti_kvartiry_v_rumyantsevo.css" crc="174435524" ref="novosti_kvartiry_v_rumyantsevo"/>
+    <file name="nomq_novosti_kvartiry_v_rumyantsevo.css" crc="4098673610" ref="novosti_kvartiry_v_rumyantsevo"/>
+    <file name="flats-parametrics.css" crc="210552396" ref="flats-parametrics"/>
+    <file name="nomq_flats-parametrics.css" crc="246775810" ref="flats-parametrics"/>
+    <file name="ipoteka.css" crc="3956335827" ref="ipoteka"/>
+    <file name="nomq_ipoteka.css" crc="280047255" ref="ipoteka"/>
+    <file name="o_proekte_gk_pozitiv.css" crc="104696481" ref="o_proekte_gk_pozitiv"/>
+    <file name="nomq_o_proekte_gk_pozitiv.css" crc="71277870" ref="o_proekte_gk_pozitiv"/>
+    <file name="4-flat-section.css" crc="28023121" ref="4-flat-section"/>
+    <file name="nomq_4-flat-section.css" crc="3785722730" ref="4-flat-section"/>
+    <file name="kak_kupit_kvartiru.css" crc="440367629" ref="kak_kupit_kvartiru"/>
+    <file name="nomq_kak_kupit_kvartiru.css" crc="305105140" ref="kak_kupit_kvartiru"/>
+    <file name="8-flat-section.css" crc="81712130" ref="8-flat-section"/>
+    <file name="nomq_8-flat-section.css" crc="4254666371" ref="8-flat-section"/>
+    <file name="o-novoy-moskve.css" crc="3939712574" ref="o-novoy-moskve"/>
+    <file name="nomq_o-novoy-moskve.css" crc="433188958" ref="o-novoy-moskve"/>
+  </folder>
+  <folder name="fonts">
+    <file name="panton.woff" crc="3876448249"/>
+    <file name="panton.eot" crc="446591287"/>
+    <file name="panton.svg" crc="4200704628"/>
+    <file name="panton bold.woff" crc="4230746393"/>
+    <file name="panton bold.eot" crc="224876202"/>
+    <file name="panton bold.svg" crc="4121765991"/>
+    <file name="ubuntu.woff" crc="78935327"/>
+    <file name="ubuntu.eot" crc="4178129696"/>
+    <file name="ubuntu.svg" crc="218271937"/>
+    <file name="panton semibold.woff" crc="4182783700"/>
+    <file name="panton semibold.eot" crc="145567525"/>
+    <file name="panton semibold.svg" crc="313007239"/>
+    <file name="panton bold.woff" crc="4230746393"/>
+    <file name="panton bold.eot" crc="224876202"/>
+    <file name="panton bold.svg" crc="4121765991"/>
+    <file name="panton.woff" crc="3876448249"/>
+    <file name="panton.eot" crc="446591287"/>
+    <file name="panton.svg" crc="4200704628"/>
+    <file name="ubuntu.woff" crc="78935327"/>
+    <file name="ubuntu.eot" crc="4178129696"/>
+    <file name="ubuntu.svg" crc="218271937"/>
+    <file name="panton semibold.woff" crc="4182783700"/>
+    <file name="panton semibold.eot" crc="145567525"/>
+    <file name="panton semibold.svg" crc="313007239"/>
+    <file name="panton.woff" crc="3876448249"/>
+    <file name="panton.eot" crc="446591287"/>
+    <file name="panton.svg" crc="4200704628"/>
+    <file name="panton bold.woff" crc="4230746393"/>
+    <file name="panton bold.eot" crc="224876202"/>
+    <file name="panton bold.svg" crc="4121765991"/>
+    <file name="ubuntu-medium.woff" crc="164095699"/>
+    <file name="ubuntu-medium.eot" crc="3907639558"/>
+    <file name="ubuntu-medium.svg" crc="4106307406"/>
+    <file name="panton semibold.woff" crc="4182783700"/>
+    <file name="panton semibold.eot" crc="145567525"/>
+    <file name="panton semibold.svg" crc="313007239"/>
+    <file name="ubuntu.woff" crc="78935327"/>
+    <file name="ubuntu.eot" crc="4178129696"/>
+    <file name="ubuntu.svg" crc="218271937"/>
+    <file name="panton bold.woff" crc="4230746393"/>
+    <file name="panton bold.eot" crc="224876202"/>
+    <file name="panton bold.svg" crc="4121765991"/>
+    <file name="panton.woff" crc="3876448249"/>
+    <file name="panton.eot" crc="446591287"/>
+    <file name="panton.svg" crc="4200704628"/>
+    <file name="ubuntu.woff" crc="78935327"/>
+    <file name="ubuntu.eot" crc="4178129696"/>
+    <file name="ubuntu.svg" crc="218271937"/>
+    <file name="panton semibold.woff" crc="4182783700"/>
+    <file name="panton semibold.eot" crc="145567525"/>
+    <file name="panton semibold.svg" crc="313007239"/>
+    <file name="ubuntu-medium.woff" crc="164095699"/>
+    <file name="ubuntu-medium.eot" crc="3907639558"/>
+    <file name="ubuntu-medium.svg" crc="4106307406"/>
+    <file name="panton semibold.woff" crc="4182783700"/>
+    <file name="panton semibold.eot" crc="145567525"/>
+    <file name="panton semibold.svg" crc="313007239"/>
+    <file name="panton.woff" crc="3876448249"/>
+    <file name="panton.eot" crc="446591287"/>
+    <file name="panton.svg" crc="4200704628"/>
+    <file name="ubuntu-medium.woff" crc="164095699"/>
+    <file name="ubuntu-medium.eot" crc="3907639558"/>
+    <file name="ubuntu-medium.svg" crc="4106307406"/>
+    <file name="panton semibold.woff" crc="4182783700"/>
+    <file name="panton semibold.eot" crc="145567525"/>
+    <file name="panton semibold.svg" crc="313007239"/>
+    <file name="panton.woff" crc="3876448249"/>
+    <file name="panton.eot" crc="446591287"/>
+    <file name="panton.svg" crc="4200704628"/>
+    <file name="panton bold.woff" crc="4230746393"/>
+    <file name="panton bold.eot" crc="224876202"/>
+    <file name="panton bold.svg" crc="4121765991"/>
+    <file name="ubuntu.woff" crc="78935327"/>
+    <file name="ubuntu.eot" crc="4178129696"/>
+    <file name="ubuntu.svg" crc="218271937"/>
+    <file name="panton semibold.woff" crc="4182783700"/>
+    <file name="panton semibold.eot" crc="145567525"/>
+    <file name="panton semibold.svg" crc="313007239"/>
+    <file name="ubuntu-medium.woff" crc="164095699"/>
+    <file name="ubuntu-medium.eot" crc="3907639558"/>
+    <file name="ubuntu-medium.svg" crc="4106307406"/>
+    <file name="panton.woff" crc="3876448249"/>
+    <file name="panton.eot" crc="446591287"/>
+    <file name="panton.svg" crc="4200704628"/>
+    <file name="panton bold.woff" crc="4230746393"/>
+    <file name="panton bold.eot" crc="224876202"/>
+    <file name="panton bold.svg" crc="4121765991"/>
+    <file name="ubuntu-medium.woff" crc="164095699"/>
+    <file name="ubuntu-medium.eot" crc="3907639558"/>
+    <file name="ubuntu-medium.svg" crc="4106307406"/>
+    <file name="panton semibold.woff" crc="4182783700"/>
+    <file name="panton semibold.eot" crc="145567525"/>
+    <file name="panton semibold.svg" crc="313007239"/>
+    <file name="ubuntu-medium.woff" crc="164095699"/>
+    <file name="ubuntu-medium.eot" crc="3907639558"/>
+    <file name="ubuntu-medium.svg" crc="4106307406"/>
+    <file name="panton semibold.woff" crc="4182783700"/>
+    <file name="panton semibold.eot" crc="145567525"/>
+    <file name="panton semibold.svg" crc="313007239"/>
+    <file name="panton bold.woff" crc="4230746393"/>
+    <file name="panton bold.eot" crc="224876202"/>
+    <file name="panton bold.svg" crc="4121765991"/>
+    <file name="panton.woff" crc="3876448249"/>
+    <file name="panton.eot" crc="446591287"/>
+    <file name="panton.svg" crc="4200704628"/>
+    <file name="ubuntu-medium.woff" crc="164095699"/>
+    <file name="ubuntu-medium.eot" crc="3907639558"/>
+    <file name="ubuntu-medium.svg" crc="4106307406"/>
+    <file name="panton semibold.woff" crc="4182783700"/>
+    <file name="panton semibold.eot" crc="145567525"/>
+    <file name="panton semibold.svg" crc="313007239"/>
+    <file name="circe-regular.woff" crc="474577392"/>
+    <file name="circe-regular.eot" crc="4152636366"/>
+    <file name="circe-regular.svg" crc="312434868"/>
+    <file name="panton bold.woff" crc="4230746393"/>
+    <file name="panton bold.eot" crc="224876202"/>
+    <file name="panton bold.svg" crc="4121765991"/>
+    <file name="panton.woff" crc="3876448249"/>
+    <file name="panton.eot" crc="446591287"/>
+    <file name="panton.svg" crc="4200704628"/>
+    <file name="ubuntu-medium.woff" crc="164095699"/>
+    <file name="ubuntu-medium.eot" crc="3907639558"/>
+    <file name="ubuntu-medium.svg" crc="4106307406"/>
+    <file name="panton semibold.woff" crc="4182783700"/>
+    <file name="panton semibold.eot" crc="145567525"/>
+    <file name="panton semibold.svg" crc="313007239"/>
+    <file name="panton bold.woff" crc="4230746393"/>
+    <file name="panton bold.eot" crc="224876202"/>
+    <file name="panton bold.svg" crc="4121765991"/>
+    <file name="panton.woff" crc="3876448249"/>
+    <file name="panton.eot" crc="446591287"/>
+    <file name="panton.svg" crc="4200704628"/>
+    <file name="ubuntu-medium.woff" crc="164095699"/>
+    <file name="ubuntu-medium.eot" crc="3907639558"/>
+    <file name="ubuntu-medium.svg" crc="4106307406"/>
+    <file name="panton semibold.woff" crc="4182783700"/>
+    <file name="panton semibold.eot" crc="145567525"/>
+    <file name="panton semibold.svg" crc="313007239"/>
+    <file name="panton.woff" crc="3876448249"/>
+    <file name="panton.eot" crc="446591287"/>
+    <file name="panton.svg" crc="4200704628"/>
+    <file name="panton bold.woff" crc="4230746393"/>
+    <file name="panton bold.eot" crc="224876202"/>
+    <file name="panton bold.svg" crc="4121765991"/>
+    <file name="ubuntu-medium.woff" crc="164095699"/>
+    <file name="ubuntu-medium.eot" crc="3907639558"/>
+    <file name="ubuntu-medium.svg" crc="4106307406"/>
+    <file name="panton semibold.woff" crc="4182783700"/>
+    <file name="panton semibold.eot" crc="145567525"/>
+    <file name="panton semibold.svg" crc="313007239"/>
+    <file name="panton.woff" crc="3876448249"/>
+    <file name="panton.eot" crc="446591287"/>
+    <file name="panton.svg" crc="4200704628"/>
+    <file name="ubuntu-medium.woff" crc="164095699"/>
+    <file name="ubuntu-medium.eot" crc="3907639558"/>
+    <file name="ubuntu-medium.svg" crc="4106307406"/>
+    <file name="panton semibold.woff" crc="4182783700"/>
+    <file name="panton semibold.eot" crc="145567525"/>
+    <file name="panton semibold.svg" crc="313007239"/>
+    <file name="panton light.woff" crc="95397933"/>
+    <file name="panton light.eot" crc="3824900835"/>
+    <file name="panton light.svg" crc="3914582323"/>
+    <file name="panton.woff" crc="3876448249"/>
+    <file name="panton.eot" crc="446591287"/>
+    <file name="panton.svg" crc="4200704628"/>
+    <file name="ubuntu-medium.woff" crc="164095699"/>
+    <file name="ubuntu-medium.eot" crc="3907639558"/>
+    <file name="ubuntu-medium.svg" crc="4106307406"/>
+    <file name="panton semibold.woff" crc="4182783700"/>
+    <file name="panton semibold.eot" crc="145567525"/>
+    <file name="panton semibold.svg" crc="313007239"/>
+    <file name="ubuntu-medium.woff" crc="164095699"/>
+    <file name="ubuntu-medium.eot" crc="3907639558"/>
+    <file name="ubuntu-medium.svg" crc="4106307406"/>
+    <file name="panton semibold.woff" crc="4182783700"/>
+    <file name="panton semibold.eot" crc="145567525"/>
+    <file name="panton semibold.svg" crc="313007239"/>
+    <file name="panton.woff" crc="3876448249"/>
+    <file name="panton.eot" crc="446591287"/>
+    <file name="panton.svg" crc="4200704628"/>
+    <file name="ubuntu-medium.woff" crc="164095699"/>
+    <file name="ubuntu-medium.eot" crc="3907639558"/>
+    <file name="ubuntu-medium.svg" crc="4106307406"/>
+    <file name="panton semibold.woff" crc="4182783700"/>
+    <file name="panton semibold.eot" crc="145567525"/>
+    <file name="panton semibold.svg" crc="313007239"/>
+    <file name="panton.woff" crc="3876448249"/>
+    <file name="panton.eot" crc="446591287"/>
+    <file name="panton.svg" crc="4200704628"/>
+    <file name="ubuntu-medium.woff" crc="164095699"/>
+    <file name="ubuntu-medium.eot" crc="3907639558"/>
+    <file name="ubuntu-medium.svg" crc="4106307406"/>
+    <file name="panton semibold.woff" crc="4182783700"/>
+    <file name="panton semibold.eot" crc="145567525"/>
+    <file name="panton semibold.svg" crc="313007239"/>
+    <file name="panton light.woff" crc="95397933"/>
+    <file name="panton light.eot" crc="3824900835"/>
+    <file name="panton light.svg" crc="3914582323"/>
+    <file name="ubuntu-medium.woff" crc="164095699"/>
+    <file name="ubuntu-medium.eot" crc="3907639558"/>
+    <file name="ubuntu-medium.svg" crc="4106307406"/>
+    <file name="panton semibold.woff" crc="4182783700"/>
+    <file name="panton semibold.eot" crc="145567525"/>
+    <file name="panton semibold.svg" crc="313007239"/>
+    <file name="panton.woff" crc="3876448249"/>
+    <file name="panton.eot" crc="446591287"/>
+    <file name="panton.svg" crc="4200704628"/>
+    <file name="panton bold.woff" crc="4230746393"/>
+    <file name="panton bold.eot" crc="224876202"/>
+    <file name="panton bold.svg" crc="4121765991"/>
+    <file name="panton semibold.woff" crc="4182783700"/>
+    <file name="panton semibold.eot" crc="145567525"/>
+    <file name="panton semibold.svg" crc="313007239"/>
+    <file name="panton.woff" crc="3876448249"/>
+    <file name="panton.eot" crc="446591287"/>
+    <file name="panton.svg" crc="4200704628"/>
+    <file name="ubuntu-medium.woff" crc="164095699"/>
+    <file name="ubuntu-medium.eot" crc="3907639558"/>
+    <file name="ubuntu-medium.svg" crc="4106307406"/>
+    <file name="panton semibold.woff" crc="4182783700"/>
+    <file name="panton semibold.eot" crc="145567525"/>
+    <file name="panton semibold.svg" crc="313007239"/>
+    <file name="panton.woff" crc="3876448249"/>
+    <file name="panton.eot" crc="446591287"/>
+    <file name="panton.svg" crc="4200704628"/>
+    <file name="ubuntu-medium.woff" crc="164095699"/>
+    <file name="ubuntu-medium.eot" crc="3907639558"/>
+    <file name="ubuntu-medium.svg" crc="4106307406"/>
+    <file name="panton semibold.woff" crc="4182783700"/>
+    <file name="panton semibold.eot" crc="145567525"/>
+    <file name="panton semibold.svg" crc="313007239"/>
+    <file name="panton.woff" crc="3876448249"/>
+    <file name="panton.eot" crc="446591287"/>
+    <file name="panton.svg" crc="4200704628"/>
+    <file name="ubuntu-medium.woff" crc="164095699"/>
+    <file name="ubuntu-medium.eot" crc="3907639558"/>
+    <file name="ubuntu-medium.svg" crc="4106307406"/>
+    <file name="panton semibold.woff" crc="4182783700"/>
+    <file name="panton semibold.eot" crc="145567525"/>
+    <file name="panton semibold.svg" crc="313007239"/>
+    <file name="panton.woff" crc="3876448249"/>
+    <file name="panton.eot" crc="446591287"/>
+    <file name="panton.svg" crc="4200704628"/>
+    <file name="reef-bold.woff" crc="285433874"/>
+    <file name="reef-bold.eot" crc="283594873"/>
+    <file name="reef-bold.svg" crc="27262933"/>
+    <file name="panton semibold.woff" crc="4182783700"/>
+    <file name="panton semibold.eot" crc="145567525"/>
+    <file name="panton semibold.svg" crc="313007239"/>
+    <file name="museosanscyrl-300.woff" crc="243032611"/>
+    <file name="museosanscyrl-300.eot" crc="3868667426"/>
+    <file name="museosanscyrl-300.svg" crc="324626447"/>
+    <file name="ubuntu-medium.woff" crc="164095699"/>
+    <file name="ubuntu-medium.eot" crc="3907639558"/>
+    <file name="ubuntu-medium.svg" crc="4106307406"/>
+  </folder>
+  <folder name="assets">
+    <file name="map-icon-metro@2x.png" crc="3971030144" seo="true" mt="1519229822000"/>
+    <file name="gallery-images3@2x.jpg" crc="4244969741" seo="true" mt="1519229963000"/>
+    <file name="gallery-image2@2x.jpg" crc="4256972455" seo="true" mt="1519229979000"/>
+    <file name="gallery-image1@2x.jpg" crc="394964476" seo="true" mt="1519229993000"/>
+    <file name="gallery-image4@2x.jpg" crc="4087942620" seo="true" mt="1519230215000"/>
+    <file name="gallery-image5@2x.jpg" crc="292718630" seo="true" mt="1519229994000"/>
+    <file name="gallery-image6@2x.jpg" crc="517431522" seo="true" mt="1519230006000"/>
+    <file name="gallery-image7@2x.jpg" crc="4198505220" seo="true" mt="1519230010000"/>
+    <file name="gallery-image10@2x.jpg" crc="3958993611" seo="true" mt="1519229921000"/>
+    <file name="gallery-image11@2x.jpg" crc="4012817396" seo="true" mt="1519229950000"/>
+    <file name="map-icon-prud@2x.png" crc="3772412817" seo="true" mt="1519229822000"/>
+    <file name="map-icon-rio@2x.png" crc="339014816" seo="true" mt="1519229822000"/>
+    <file name="map-icon-lk@2x.png" crc="3993669792" seo="true" mt="1519229822000"/>
+    <file name="map-icon-detsad@2x.png" crc="80779898" seo="true" mt="1519229822000"/>
+    <file name="map-icon-hospital@2x.png" crc="407818748" seo="true" mt="1519229822000"/>
+    <file name="map-icon-swimmingpool@2x.png" crc="123422209" seo="true" mt="1519229822000"/>
+    <file name="map-icon-cinema@2x.png" crc="220273811" seo="true" mt="1519229822000"/>
+    <file name="canvas-pozitiv.png" crc="123373819" seo="true" mt="1519229869000"/>
+    <file name="pozitiv-canvas.png" crc="4085880560" seo="true" mt="1519229870000"/>
+    <file name="gallery-image13@2x.jpg" crc="86509753" seo="true" mt="1519230007000"/>
+    <file name="gallery-image12@2x.jpg" crc="487856032" seo="true" mt="1519229997000"/>
+    <file name="pano1.jpg" crc="3853936683" seo="true" mt="1519230882000"/>
+    <file name="pano1-preview.jpg" crc="3874142061" seo="true" mt="1519229897000"/>
+    <file name="close-video-player-btn-prrsd@2x.png" crc="167529092" seo="true" mt="1519229828000"/>
+    <file name="close-video-player-btn@2x.png" crc="52607708" seo="true" mt="1519229828000"/>
+    <file name="map-icon-office@2x.png" crc="50834436" seo="true" mt="1519229826000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>kvartiry_v_rumyantsevo:tablet>index:tablet>kvartiry_v_rumyantsevo:tablet>chose-flats:flats-parametrics:kontakty:gallereya_dom_pozitiv:kvartiry_v_rumyantsevo:proektnaya_deklaraсia:infrastruktura_rumyantsevo:index:o_proekte_gk_pozitiv:kak_kupit_kvartiru:flat-card:novosti_kvartiry_v_rumyantsevo:news-details:pano-1:ipoteka:4-flat-section:hod-stroitelstva:callbackform:viberite_kvartiru_v_gk_pozitiv:5-flat-section:8-flat-section:o-novoy-moskve"/>
+    <file name="museutils.js" crc="17924269" ref="phone>index:phone>kvartiry_v_rumyantsevo:tablet>index:tablet>kvartiry_v_rumyantsevo:tablet>chose-flats:flats-parametrics:kontakty:gallereya_dom_pozitiv:kvartiry_v_rumyantsevo:proektnaya_deklaraсia:infrastruktura_rumyantsevo:index:o_proekte_gk_pozitiv:kak_kupit_kvartiru:flat-card:novosti_kvartiry_v_rumyantsevo:news-details:pano-1:ipoteka:4-flat-section:hod-stroitelstva:callbackform:viberite_kvartiru_v_gk_pozitiv:5-flat-section:8-flat-section:o-novoy-moskve"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>kvartiry_v_rumyantsevo:tablet>index:tablet>kvartiry_v_rumyantsevo:tablet>chose-flats:flats-parametrics:kontakty:gallereya_dom_pozitiv:kvartiry_v_rumyantsevo:proektnaya_deklaraсia:infrastruktura_rumyantsevo:index:o_proekte_gk_pozitiv:kak_kupit_kvartiru:flat-card:novosti_kvartiry_v_rumyantsevo:news-details:pano-1:ipoteka:4-flat-section:hod-stroitelstva:callbackform:viberite_kvartiru_v_gk_pozitiv:5-flat-section:8-flat-section:o-novoy-moskve"/>
+    <file name="museconfig.js" crc="144853533" ref="phone>index:phone>kvartiry_v_rumyantsevo:tablet>index:tablet>kvartiry_v_rumyantsevo:tablet>chose-flats:flats-parametrics:kontakty:gallereya_dom_pozitiv:kvartiry_v_rumyantsevo:proektnaya_deklaraсia:infrastruktura_rumyantsevo:index:o_proekte_gk_pozitiv:kak_kupit_kvartiru:flat-card:novosti_kvartiry_v_rumyantsevo:news-details:pano-1:ipoteka:4-flat-section:hod-stroitelstva:callbackform:viberite_kvartiru_v_gk_pozitiv:5-flat-section:8-flat-section:o-novoy-moskve"/>
+    <file name="webpro.js" crc="416662029" ref="phone>index:tablet>index:callbackform"/>
+    <file name="musewpdisclosure.js" crc="3809204180" ref="phone>index:tablet>index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3854337258" ref="phone>index:tablet>index:flats-parametrics:kontakty:gallereya_dom_pozitiv:kvartiry_v_rumyantsevo:proektnaya_deklaraсia:infrastruktura_rumyantsevo:index:o_proekte_gk_pozitiv:kak_kupit_kvartiru:flat-card:novosti_kvartiry_v_rumyantsevo:ipoteka:4-flat-section:viberite_kvartiru_v_gk_pozitiv:5-flat-section:8-flat-section:o-novoy-moskve"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="phone>index:phone>kvartiry_v_rumyantsevo:tablet>index:tablet>kvartiry_v_rumyantsevo:tablet>chose-flats:flats-parametrics:infrastruktura_rumyantsevo:index:o_proekte_gk_pozitiv:ipoteka:viberite_kvartiru_v_gk_pozitiv:o-novoy-moskve"/>
+    <file name="form_check.php" crc="4110044762" ref="phone>index"/>
+    <file name="form_throttle.php" crc="22190333" ref="phone>index"/>
+    <file name="form_process.php" crc="257545537" ref="phone>index"/>
+    <file name="form-u54099.php" crc="3853791611" ref="phone>index"/>
+    <file name="require.js" crc="3861931657" ref="phone>index:phone>kvartiry_v_rumyantsevo:tablet>index:tablet>kvartiry_v_rumyantsevo:tablet>chose-flats:flats-parametrics:kontakty:gallereya_dom_pozitiv:kvartiry_v_rumyantsevo:proektnaya_deklaraсia:infrastruktura_rumyantsevo:index:o_proekte_gk_pozitiv:kak_kupit_kvartiru:flat-card:novosti_kvartiry_v_rumyantsevo:news-details:pano-1:ipoteka:4-flat-section:hod-stroitelstva:callbackform:viberite_kvartiru_v_gk_pozitiv:5-flat-section:8-flat-section:o-novoy-moskve"/>
+    <file name="form-u54186.php" crc="219279871" ref="tablet>index"/>
+    <file name="jquery.museresponsive.js" crc="4267800278" ref="tablet>index:flats-parametrics:kontakty:kvartiry_v_rumyantsevo:proektnaya_deklaraсia:infrastruktura_rumyantsevo:index:o_proekte_gk_pozitiv:kak_kupit_kvartiru:flat-card:novosti_kvartiry_v_rumyantsevo:news-details:pano-1:ipoteka:4-flat-section:hod-stroitelstva:viberite_kvartiru_v_gk_pozitiv:5-flat-section:8-flat-section:o-novoy-moskve"/>
+    <file name="form-u188175.php" crc="4264744995" ref="callbackform"/>
+  </folder>
+  <folder name="images">
+    <file name="logo-centered@2x361x95.png" crc="21703650" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo-centered@2x_2x.png" crc="4089599094" seo="true" ref="phone>index:tablet>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="close_musemenupro.png" crc="481936843" ref="phone>index:tablet>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="close_musemenupro_2x.png" crc="481936843" ref="phone>index:tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="close_musemenuprob.png" crc="294924595" ref="phone>index:tablet>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="close_musemenuprob_2x.png" crc="294924595" ref="phone>index:tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo@2x227x48.png" crc="4014315840" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo@2x227x48_2x.png" crc="3806410468" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:tablet>index:flats-parametrics:kontakty:kvartiry_v_rumyantsevo:proektnaya_deklaraсia:infrastruktura_rumyantsevo:index:o_proekte_gk_pozitiv:kak_kupit_kvartiru:flat-card:novosti_kvartiry_v_rumyantsevo:news-details:pano-1:ipoteka:4-flat-section:hod-stroitelstva:viberite_kvartiru_v_gk_pozitiv:5-flat-section:8-flat-section:o-novoy-moskve"/>
+    <file name="hand3@2x188x188.png" crc="425567063" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hand3@2x188x188_2x.png" crc="3820618034" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hand1@2x161x161.png" crc="4136764031" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hand1@2x161x161_2x.png" crc="3921147738" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hand2@2x173x173.png" crc="50701463" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hand2@2x173x173_2x.png" crc="4264091767" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="metro-map-mobile@2x.png" crc="322422642" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="park@2x.jpg" crc="251037900" ref="phone>index:tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="park@2x_2x.jpg" crc="4009696585" ref="phone>index:tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="family@2x.jpg" crc="300924935" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="family@2x_2x.jpg" crc="74521525" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="small-phone-icon@2x.png" crc="363163476" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="small-phone-icon@2x_2x.png" crc="252319541" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gallery-image6@2x-u45387-fr.jpg" crc="4081732744" ref="phone>index"/>
+    <file name="gallery-image6@2x-u45387-fr_2x.jpg" crc="257814801" ref="phone>index"/>
+    <file name="gallery-image9@2x.jpg" crc="40758043" ref="phone>index:tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gallery-image9@2x_2x.jpg" crc="4182941949" ref="phone>index:tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3d-flat-1room@2x359x448.png" crc="4052605675" seo="true" ref="phone>kvartiry_v_rumyantsevo">
+      <caption webpage="kvartiry_v_rumyantsevo" alt=""/>
+      <caption webpage="kvartiry_v_rumyantsevo" alt=""/>
+    </file>
+    <file name="3d-flat-1room@2x359x448_2x.png" crc="399729052" seo="true" ref="phone>kvartiry_v_rumyantsevo">
+      <caption webpage="kvartiry_v_rumyantsevo" alt=""/>
+      <caption webpage="kvartiry_v_rumyantsevo" alt=""/>
+    </file>
+    <file name="3d-flat-2rooms@2x570x820.png" crc="3970719513" seo="true" ref="phone>kvartiry_v_rumyantsevo">
+      <caption webpage="kvartiry_v_rumyantsevo" alt=""/>
+      <caption webpage="kvartiry_v_rumyantsevo" alt=""/>
+    </file>
+    <file name="3d-flat-2rooms@2x570x820_2x.png" crc="4203295769" seo="true" ref="phone>kvartiry_v_rumyantsevo">
+      <caption webpage="kvartiry_v_rumyantsevo" alt=""/>
+      <caption webpage="kvartiry_v_rumyantsevo" alt=""/>
+    </file>
+    <file name="3d-flat-3rooms@2x380x475.png" crc="4103030393" seo="true" ref="phone>kvartiry_v_rumyantsevo">
+      <caption webpage="kvartiry_v_rumyantsevo" alt=""/>
+      <caption webpage="kvartiry_v_rumyantsevo" alt=""/>
+    </file>
+    <file name="3d-flat-3rooms@2x380x475_2x.png" crc="4289714456" seo="true" ref="phone>kvartiry_v_rumyantsevo">
+      <caption webpage="kvartiry_v_rumyantsevo" alt=""/>
+      <caption webpage="kvartiry_v_rumyantsevo" alt=""/>
+    </file>
+    <file name="down-arrow@2x77x40.png" crc="3892537982" seo="true" ref="phone>kvartiry_v_rumyantsevo">
+      <caption webpage="kvartiry_v_rumyantsevo" alt=""/>
+    </file>
+    <file name="down-arrow@2x_2x.png" crc="500940516" seo="true" ref="phone>kvartiry_v_rumyantsevo">
+      <caption webpage="kvartiry_v_rumyantsevo" alt=""/>
+    </file>
+    <file name="logo@2x269x57.png" crc="3857055878" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo@2x269x57_2x.png" crc="470714597" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gallery-image6@2x.jpg" crc="517431522" ref="tablet>index:o_proekte_gk_pozitiv">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gallery-image9@2x2.jpg" crc="4182941949" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="park@2x2.jpg" crc="4009696585" ref="tablet>index:o_proekte_gk_pozitiv">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="family@2x2.jpg" crc="74521525" ref="tablet>index:o_proekte_gk_pozitiv">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hand1@2x182x182.png" crc="4207475769" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hand1@2x182x182_2x.png" crc="501472408" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hand2@2x181x181.png" crc="130694112" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hand2@2x_2x.png" crc="173411570" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hand3@2x195x195.png" crc="521748221" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hand3@2x195x195_2x.png" crc="516339447" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="metro-map-mobile@2x2.png" crc="533295262" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="metro-map-mobile@2x_2x.png" crc="322422642" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="small-phone-icon@2x34x34.png" crc="4028338968" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="small-phone-icon@2x34x34_2x.png" crc="156397295" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo-centered@2x.png" crc="4269664533" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hand1@2x93x93.png" crc="110662933" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hand1@2x93x93_2x.png" crc="532525173" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hand2@2x99x99.png" crc="143099700" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hand2@2x99x99_2x.png" crc="78089212" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hand3@2x99x99.png" crc="4037409121" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hand3@2x99x99_2x.png" crc="3930351619" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gallery-image6@2x-u49893-fr.jpg" crc="365879131" ref="tablet>index"/>
+    <file name="gallery-image6@2x-u49893-fr_2x.jpg" crc="3830163131" ref="tablet>index"/>
+    <file name="family@2x-u49906-fr.jpg" crc="222714476" ref="tablet>index"/>
+    <file name="family@2x-u49906-fr_2x.jpg" crc="395981410" ref="tablet>index"/>
+    <file name="favicon.ico" crc="238351894" ref="flats-parametrics"/>
+    <file name="logo@2x.png" crc="3851567639" seo="true" ref="flats-parametrics:kvartiry_v_rumyantsevo:proektnaya_deklaraсia:o_proekte_gk_pozitiv:flat-card:viberite_kvartiru_v_gk_pozitiv:8-flat-section">
+      <caption webpage="o_proekte_gk_pozitiv" alt=""/>
+      <caption webpage="o_proekte_gk_pozitiv" alt=""/>
+      <caption webpage="o_proekte_gk_pozitiv" alt=""/>
+      <caption webpage="o_proekte_gk_pozitiv" alt=""/>
+      <caption webpage="flats-parametrics" alt=""/>
+    </file>
+    <file name="logo@2x_2x.png" crc="4105788441" seo="true" ref="flats-parametrics:kvartiry_v_rumyantsevo:proektnaya_deklaraсia:o_proekte_gk_pozitiv:flat-card:viberite_kvartiru_v_gk_pozitiv:8-flat-section">
+      <caption webpage="o_proekte_gk_pozitiv" alt=""/>
+      <caption webpage="o_proekte_gk_pozitiv" alt=""/>
+      <caption webpage="o_proekte_gk_pozitiv" alt=""/>
+      <caption webpage="o_proekte_gk_pozitiv" alt=""/>
+      <caption webpage="flats-parametrics" alt=""/>
+    </file>
+    <file name="zakazat-zvonok@2x.png" crc="375932546" ref="flats-parametrics:kvartiry_v_rumyantsevo:proektnaya_deklaraсia:o_proekte_gk_pozitiv:flat-card:viberite_kvartiru_v_gk_pozitiv:8-flat-section">
+      <caption webpage="flats-parametrics" alt=""/>
+    </file>
+    <file name="zakazat-zvonok@2x_2x.png" crc="4106184686" ref="flats-parametrics:kvartiry_v_rumyantsevo:proektnaya_deklaraсia:o_proekte_gk_pozitiv:flat-card:viberite_kvartiru_v_gk_pozitiv:8-flat-section">
+      <caption webpage="flats-parametrics" alt=""/>
+    </file>
+    <file name="zakazat-zvonok-pressed@2x.png" crc="4089351732" ref="flats-parametrics:kvartiry_v_rumyantsevo:proektnaya_deklaraсia:o_proekte_gk_pozitiv:flat-card:viberite_kvartiru_v_gk_pozitiv:8-flat-section">
+      <caption webpage="flats-parametrics" alt=""/>
+    </file>
+    <file name="zakazat-zvonok-pressed@2x_2x.png" crc="376901766" ref="flats-parametrics:kvartiry_v_rumyantsevo:proektnaya_deklaraсia:o_proekte_gk_pozitiv:flat-card:viberite_kvartiru_v_gk_pozitiv:8-flat-section">
+      <caption webpage="flats-parametrics" alt=""/>
+    </file>
+    <file name="icon-car@2x.png" crc="45071996" seo="true" ref="kontakty">
+      <caption webpage="kontakty" alt=""/>
+      <caption webpage="kontakty" alt=""/>
+    </file>
+    <file name="icon-car@2x_2x.png" crc="110705251" seo="true" ref="kontakty">
+      <caption webpage="kontakty" alt=""/>
+      <caption webpage="kontakty" alt=""/>
+    </file>
+    <file name="bus-icon@2x.png" crc="486920819" seo="true" ref="kontakty">
+      <caption webpage="kontakty" alt=""/>
+      <caption webpage="kontakty" alt=""/>
+    </file>
+    <file name="bus-icon@2x_2x.png" crc="3973281130" seo="true" ref="kontakty">
+      <caption webpage="kontakty" alt=""/>
+      <caption webpage="kontakty" alt=""/>
+    </file>
+    <file name="icon-train@2x.png" crc="25876904" seo="true" ref="kontakty">
+      <caption webpage="kontakty" alt=""/>
+      <caption webpage="kontakty" alt=""/>
+    </file>
+    <file name="icon-train@2x_2x.png" crc="4246745642" seo="true" ref="kontakty">
+      <caption webpage="kontakty" alt=""/>
+      <caption webpage="kontakty" alt=""/>
+    </file>
+    <file name="map-plus-button@2x.jpg" crc="4198131931" ref="kontakty:infrastruktura_rumyantsevo">
+      <caption webpage="kontakty" alt=""/>
+    </file>
+    <file name="map-plus-button@2x_2x.jpg" crc="213870300" ref="kontakty:infrastruktura_rumyantsevo">
+      <caption webpage="kontakty" alt=""/>
+    </file>
+    <file name="map-minus-button@2x.jpg" crc="4180271365" ref="kontakty:infrastruktura_rumyantsevo">
+      <caption webpage="kontakty" alt=""/>
+    </file>
+    <file name="map-minus-button@2x_2x.jpg" crc="4252196735" ref="kontakty:infrastruktura_rumyantsevo">
+      <caption webpage="kontakty" alt=""/>
+    </file>
+    <file name="logo@2x240x50.png" crc="3916437885" seo="true" ref="gallereya_dom_pozitiv">
+      <caption webpage="gallereya_dom_pozitiv" alt=""/>
+    </file>
+    <file name="logo@2x240x50_2x.png" crc="3973540557" seo="true" ref="gallereya_dom_pozitiv">
+      <caption webpage="gallereya_dom_pozitiv" alt=""/>
+    </file>
+    <file name="close-form-button@2x.jpg" crc="4123721344" ref="gallereya_dom_pozitiv">
+      <caption webpage="gallereya_dom_pozitiv" alt=""/>
+    </file>
+    <file name="close-form-button@2x_2x.jpg" crc="170691717" ref="gallereya_dom_pozitiv">
+      <caption webpage="gallereya_dom_pozitiv" alt=""/>
+    </file>
+    <file name="chose-flat-by-parameters@2x.png" crc="4059925557" ref="kvartiry_v_rumyantsevo:index:o_proekte_gk_pozitiv:kak_kupit_kvartiru">
+      <caption webpage="kvartiry_v_rumyantsevo" alt=""/>
+    </file>
+    <file name="chose-flat-by-parameters@2x_2x.png" crc="3853470156" ref="kvartiry_v_rumyantsevo:index:o_proekte_gk_pozitiv:kak_kupit_kvartiru">
+      <caption webpage="kvartiry_v_rumyantsevo" alt=""/>
+    </file>
+    <file name="chose-flat-by-parameters@2x2.png" crc="3853470156" ref="kvartiry_v_rumyantsevo:index:o_proekte_gk_pozitiv:kak_kupit_kvartiru">
+      <caption webpage="kvartiry_v_rumyantsevo" alt=""/>
+    </file>
+    <file name="chose-flat-by-plan@2x.png" crc="252529726" ref="kvartiry_v_rumyantsevo:index:o_proekte_gk_pozitiv:kak_kupit_kvartiru">
+      <caption webpage="kvartiry_v_rumyantsevo" alt=""/>
+    </file>
+    <file name="chose-flat-by-plan@2x_2x.png" crc="3811237263" ref="kvartiry_v_rumyantsevo:index:o_proekte_gk_pozitiv:kak_kupit_kvartiru">
+      <caption webpage="kvartiry_v_rumyantsevo" alt=""/>
+    </file>
+    <file name="chose-flat-by-plan@2x2.png" crc="3811237263" ref="kvartiry_v_rumyantsevo:index:o_proekte_gk_pozitiv:kak_kupit_kvartiru">
+      <caption webpage="kvartiry_v_rumyantsevo" alt=""/>
+    </file>
+    <file name="3d-flat-2rooms@2x.png" crc="69843414" seo="true" ref="kvartiry_v_rumyantsevo">
+      <caption webpage="kvartiry_v_rumyantsevo" alt=""/>
+      <caption webpage="kvartiry_v_rumyantsevo" alt=""/>
+      <caption webpage="kvartiry_v_rumyantsevo" alt=""/>
+    </file>
+    <file name="3d-flat-2rooms@2x_2x.png" crc="3931836669" seo="true" ref="kvartiry_v_rumyantsevo">
+      <caption webpage="kvartiry_v_rumyantsevo" alt=""/>
+      <caption webpage="kvartiry_v_rumyantsevo" alt=""/>
+      <caption webpage="kvartiry_v_rumyantsevo" alt=""/>
+    </file>
+    <file name="facebook-icon@2x.png" crc="4050171275" ref="kvartiry_v_rumyantsevo:index:o_proekte_gk_pozitiv:o-novoy-moskve">
+      <caption webpage="kvartiry_v_rumyantsevo" alt=""/>
+    </file>
+    <file name="facebook-icon@2x_2x.png" crc="218181250" ref="kvartiry_v_rumyantsevo:index:o_proekte_gk_pozitiv:o-novoy-moskve">
+      <caption webpage="kvartiry_v_rumyantsevo" alt=""/>
+    </file>
+    <file name="twitter-icon@2x.png" crc="445406991" ref="kvartiry_v_rumyantsevo:index:o_proekte_gk_pozitiv:o-novoy-moskve">
+      <caption webpage="kvartiry_v_rumyantsevo" alt=""/>
+    </file>
+    <file name="twitter-icon@2x_2x.png" crc="4187172724" ref="kvartiry_v_rumyantsevo:index:o_proekte_gk_pozitiv:o-novoy-moskve">
+      <caption webpage="kvartiry_v_rumyantsevo" alt=""/>
+    </file>
+    <file name="vk-icon@2x.png" crc="3911443569" ref="kvartiry_v_rumyantsevo:index:o_proekte_gk_pozitiv:o-novoy-moskve">
+      <caption webpage="kvartiry_v_rumyantsevo" alt=""/>
+    </file>
+    <file name="vk-icon@2x_2x.png" crc="4072621890" ref="kvartiry_v_rumyantsevo:index:o_proekte_gk_pozitiv:o-novoy-moskve">
+      <caption webpage="kvartiry_v_rumyantsevo" alt=""/>
+    </file>
+    <file name="instagram@2x.png" crc="108676406" ref="kvartiry_v_rumyantsevo:index:o_proekte_gk_pozitiv:o-novoy-moskve">
+      <caption webpage="kvartiry_v_rumyantsevo" alt=""/>
+    </file>
+    <file name="instagram@2x_2x.png" crc="465535550" ref="kvartiry_v_rumyantsevo:index:o_proekte_gk_pozitiv:o-novoy-moskve">
+      <caption webpage="kvartiry_v_rumyantsevo" alt=""/>
+    </file>
+    <file name="3d-flat-3rooms@2x.png" crc="87782048" seo="true" ref="kvartiry_v_rumyantsevo">
+      <caption webpage="kvartiry_v_rumyantsevo" alt=""/>
+      <caption webpage="kvartiry_v_rumyantsevo" alt=""/>
+    </file>
+    <file name="3d-flat-3rooms@2x_2x.png" crc="415775169" seo="true" ref="kvartiry_v_rumyantsevo">
+      <caption webpage="kvartiry_v_rumyantsevo" alt=""/>
+      <caption webpage="kvartiry_v_rumyantsevo" alt=""/>
+    </file>
+    <file name="odnoklassniki@2x.png" crc="4060831034" ref="kvartiry_v_rumyantsevo:index:o_proekte_gk_pozitiv:o-novoy-moskve">
+      <caption webpage="kvartiry_v_rumyantsevo" alt=""/>
+    </file>
+    <file name="odnoklassniki@2x_2x.png" crc="4063771336" ref="kvartiry_v_rumyantsevo:index:o_proekte_gk_pozitiv:o-novoy-moskve">
+      <caption webpage="kvartiry_v_rumyantsevo" alt=""/>
+    </file>
+    <file name="3d-flat-1room@2x.png" crc="427811211" seo="true" ref="kvartiry_v_rumyantsevo">
+      <caption webpage="kvartiry_v_rumyantsevo" alt=""/>
+      <caption webpage="kvartiry_v_rumyantsevo" alt=""/>
+      <caption webpage="kvartiry_v_rumyantsevo" alt=""/>
+    </file>
+    <file name="3d-flat-1room@2x_2x.png" crc="315291990" seo="true" ref="kvartiry_v_rumyantsevo">
+      <caption webpage="kvartiry_v_rumyantsevo" alt=""/>
+      <caption webpage="kvartiry_v_rumyantsevo" alt=""/>
+      <caption webpage="kvartiry_v_rumyantsevo" alt=""/>
+    </file>
+    <file name="3d-flat-3rooms@2x752x941.png" crc="87782048" seo="true" ref="kvartiry_v_rumyantsevo">
+      <caption webpage="kvartiry_v_rumyantsevo" alt=""/>
+    </file>
+    <file name="3d-flat-3rooms@2x752x941_2x.png" crc="415775169" seo="true" ref="kvartiry_v_rumyantsevo">
+      <caption webpage="kvartiry_v_rumyantsevo" alt=""/>
+    </file>
+    <file name="zip@2x.png" crc="3933728956" ref="proektnaya_deklaraсia">
+      <caption webpage="proektnaya_deklaraсia" alt=""/>
+    </file>
+    <file name="zip@2x_2x.png" crc="4175203402" ref="proektnaya_deklaraсia">
+      <caption webpage="proektnaya_deklaraсia" alt=""/>
+    </file>
+    <file name="docs-bg@2x.jpg" crc="3835338721" ref="proektnaya_deklaraсia">
+      <caption webpage="proektnaya_deklaraсia" alt=""/>
+    </file>
+    <file name="docs-bg@2x2.jpg" crc="3778742640" ref="proektnaya_deklaraсia">
+      <caption webpage="proektnaya_deklaraсia" alt=""/>
+      <caption webpage="proektnaya_deklaraсia" alt=""/>
+    </file>
+    <file name="docs-bg@2x_2x.jpg" crc="138028091" ref="proektnaya_deklaraсia">
+      <caption webpage="proektnaya_deklaraсia" alt=""/>
+      <caption webpage="proektnaya_deklaraсia" alt=""/>
+    </file>
+    <file name="popupbanner-1@2x.jpg" crc="162175421" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="close-video-player-btn@2x.png" crc="50955798" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="close-video-player-btn@2x_2x.png" crc="520476223" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="close-video-player-btn-prrsd@2x.png" crc="308843068" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="close-video-player-btn-prrsd@2x_2x.png" crc="4130885835" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gallery-image1@2x.jpg" crc="394964476" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hand1@2x80x80.png" crc="3854889310" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hand1@2x80x80_2x.png" crc="4091002500" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hand2@2x93x93.png" crc="503538001" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hand2@2x93x93_2x.png" crc="436653749" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="search-for-a-flat-pressed@2x.jpg" crc="4117288463" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="search-for-a-flat-pressed@2x_2x.jpg" crc="4176220419" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="search-for-a-flat@2x.jpg" crc="264697134" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="search-for-a-flat@2x_2x.jpg" crc="3777335861" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="go-to-office@2x.png" crc="127136926" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="friends@2x.png" crc="4065978109" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="new-moscow@2x.png" crc="3836202878" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="new-moscow@2x_2x.png" crc="3962993574" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="schatlivaya-zhizn@2x.png" crc="236972862" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="schatlivaya-zhizn@2x_2x.png" crc="3829409841" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="plan-etazha-primer@2x.png" crc="3758385134" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="red-play-button@2x-buttonu649759-fr.png" crc="453958153" ref="index"/>
+    <file name="red-play-button@2x-buttonu649759-fr_2x.png" crc="40706647" ref="index"/>
+    <file name="stroika@2x.png" crc="34260060" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="stroika@2x_2x.png" crc="4124800707" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="facebook-icon@2x-buttonu562491-fr.png" crc="3857637956" ref="index"/>
+    <file name="facebook-icon@2x-buttonu562491-fr_2x.png" crc="368949658" ref="index"/>
+    <file name="twitter-icon@2x-buttonu562511-fr.png" crc="335103394" ref="index"/>
+    <file name="twitter-icon@2x-buttonu562511-fr_2x.png" crc="276151500" ref="index"/>
+    <file name="vk-icon@2x-buttonu562517-fr.png" crc="392873160" ref="index"/>
+    <file name="vk-icon@2x-buttonu562517-fr_2x.png" crc="3876859513" ref="index"/>
+    <file name="instagram@2x-buttonu562523-fr.png" crc="198678083" ref="index"/>
+    <file name="instagram@2x-buttonu562523-fr_2x.png" crc="280292537" ref="index"/>
+    <file name="odnoklassniki@2x-buttonu562529-fr.png" crc="3829247935" ref="index"/>
+    <file name="odnoklassniki@2x-buttonu562529-fr_2x.png" crc="4095097213" ref="index"/>
+    <file name="gallery-image4@2x.jpg" crc="3763062867" ref="o_proekte_gk_pozitiv">
+      <caption webpage="o_proekte_gk_pozitiv" alt=""/>
+    </file>
+    <file name="gallery-image4@2x_2x.jpg" crc="150585674" ref="o_proekte_gk_pozitiv">
+      <caption webpage="o_proekte_gk_pozitiv" alt=""/>
+    </file>
+    <file name="genplan@2x.jpg" crc="4231158688" ref="o_proekte_gk_pozitiv">
+      <caption webpage="o_proekte_gk_pozitiv" alt=""/>
+    </file>
+    <file name="gallery-image2@2x.jpg" crc="4256972455" ref="o_proekte_gk_pozitiv">
+      <caption webpage="o_proekte_gk_pozitiv" alt=""/>
+    </file>
+    <file name="klinker@2x.jpg" crc="3990741557" ref="o_proekte_gk_pozitiv">
+      <caption webpage="o_proekte_gk_pozitiv" alt=""/>
+    </file>
+    <file name="red-play-button@2x.png" crc="4230372240" ref="o_proekte_gk_pozitiv">
+      <caption webpage="o_proekte_gk_pozitiv" alt=""/>
+    </file>
+    <file name="red-play-button@2x_2x.png" crc="325414086" ref="o_proekte_gk_pozitiv">
+      <caption webpage="o_proekte_gk_pozitiv" alt=""/>
+    </file>
+    <file name="metro-map@2x.jpg" crc="174619687" ref="o_proekte_gk_pozitiv">
+      <caption webpage="o_proekte_gk_pozitiv" alt=""/>
+    </file>
+    <file name="drone@2x.gif" crc="191762242" ref="o_proekte_gk_pozitiv">
+      <caption webpage="o_proekte_gk_pozitiv" alt=""/>
+    </file>
+    <file name="gallery-image4@2x-u26407-fr.jpg" crc="4228074748" ref="o_proekte_gk_pozitiv"/>
+    <file name="gallery-image4@2x-u26407-fr_2x.jpg" crc="518117861" ref="o_proekte_gk_pozitiv"/>
+    <file name="gallery-image4@2x-u26407-fr2.jpg" crc="3823135302" ref="o_proekte_gk_pozitiv"/>
+    <file name="gallery-image4@2x-u26407-fr_2x2.jpg" crc="4293103150" ref="o_proekte_gk_pozitiv"/>
+    <file name="metro-map@2x2.jpg" crc="512821091" ref="o_proekte_gk_pozitiv">
+      <caption webpage="o_proekte_gk_pozitiv" alt=""/>
+    </file>
+    <file name="metro-map@2x_2x.jpg" crc="174619687" ref="o_proekte_gk_pozitiv">
+      <caption webpage="o_proekte_gk_pozitiv" alt=""/>
+    </file>
+    <file name="business-card@2x.png" crc="457259703" seo="true" ref="kak_kupit_kvartiru">
+      <caption webpage="kak_kupit_kvartiru" alt=""/>
+      <caption webpage="kak_kupit_kvartiru" alt=""/>
+    </file>
+    <file name="business-card@2x_2x.png" crc="3917583427" seo="true" ref="kak_kupit_kvartiru">
+      <caption webpage="kak_kupit_kvartiru" alt=""/>
+      <caption webpage="kak_kupit_kvartiru" alt=""/>
+    </file>
+    <file name="back-button@2x.jpg" crc="154983964" ref="flat-card">
+      <caption webpage="flat-card" alt=""/>
+    </file>
+    <file name="back-button@2x_2x.jpg" crc="4192456788" ref="flat-card">
+      <caption webpage="flat-card" alt=""/>
+    </file>
+    <file name="back-button-pressed@2x.jpg" crc="4100447038" ref="flat-card">
+      <caption webpage="flat-card" alt=""/>
+    </file>
+    <file name="back-button-pressed@2x_2x.jpg" crc="3778705664" ref="flat-card">
+      <caption webpage="flat-card" alt=""/>
+    </file>
+    <file name="gallery-images3@2x.jpg" crc="4244969741" ref="novosti_kvartiry_v_rumyantsevo">
+      <caption webpage="novosti_kvartiry_v_rumyantsevo" alt=""/>
+    </file>
+    <file name="pasted-svg-53198x151.svg" crc="32057307" seo="true" ref="pano-1">
+      <caption webpage="pano-1" alt=""/>
+      <caption webpage="pano-1" alt=""/>
+    </file>
+    <file name="pasted svg 53198x151_poster_.png" crc="4228625865" ref="pano-1"/>
+    <file name="bank-transkapital@2x.png" crc="365412078" ref="ipoteka">
+      <caption webpage="ipoteka" alt=""/>
+    </file>
+    <file name="bank-promsvyaz@2x.png" crc="128144203" ref="ipoteka">
+      <caption webpage="ipoteka" alt=""/>
+    </file>
+    <file name="bank-promsvyaz@2x_2x.png" crc="4008247555" ref="ipoteka">
+      <caption webpage="ipoteka" alt=""/>
+    </file>
+    <file name="bank-vozrozdenie@2x.png" crc="5894287" ref="ipoteka">
+      <caption webpage="ipoteka" alt=""/>
+    </file>
+    <file name="bank-globeks@2x.png" crc="4228165803" seo="true" ref="ipoteka">
+      <caption webpage="ipoteka" alt=""/>
+      <caption webpage="ipoteka" alt=""/>
+    </file>
+    <file name="bank-deltakredit@2x.png" crc="4009944388" seo="true" ref="ipoteka">
+      <caption webpage="ipoteka" alt=""/>
+      <caption webpage="ipoteka" alt=""/>
+    </file>
+    <file name="bank-sngb@2x.png" crc="344753400" seo="true" ref="ipoteka">
+      <caption webpage="ipoteka" alt=""/>
+      <caption webpage="ipoteka" alt=""/>
+    </file>
+    <file name="bank-sngb@2x_2x.png" crc="191907105" seo="true" ref="ipoteka">
+      <caption webpage="ipoteka" alt=""/>
+      <caption webpage="ipoteka" alt=""/>
+    </file>
+    <file name="bank-metallinvest@2x.png" crc="361203454" seo="true" ref="ipoteka">
+      <caption webpage="ipoteka" alt=""/>
+      <caption webpage="ipoteka" alt=""/>
+    </file>
+    <file name="bank-metallinvest@2x_2x.png" crc="322323642" seo="true" ref="ipoteka">
+      <caption webpage="ipoteka" alt=""/>
+      <caption webpage="ipoteka" alt=""/>
+    </file>
+    <file name="bank-gazprombank@2x.png" crc="3964699684" seo="true" ref="ipoteka">
+      <caption webpage="ipoteka" alt=""/>
+      <caption webpage="ipoteka" alt=""/>
+    </file>
+    <file name="bank-gazprombank@2x_2x.png" crc="4057758377" seo="true" ref="ipoteka">
+      <caption webpage="ipoteka" alt=""/>
+      <caption webpage="ipoteka" alt=""/>
+    </file>
+    <file name="bank-bmsk@2x.png" crc="165811777" seo="true" ref="ipoteka">
+      <caption webpage="ipoteka" alt=""/>
+      <caption webpage="ipoteka" alt=""/>
+    </file>
+    <file name="bank-bmsk@2x_2x.png" crc="3995907099" seo="true" ref="ipoteka">
+      <caption webpage="ipoteka" alt=""/>
+      <caption webpage="ipoteka" alt=""/>
+    </file>
+    <file name="bank-raiffeisen@2x.png" crc="3888386778" seo="true" ref="ipoteka">
+      <caption webpage="ipoteka" alt=""/>
+      <caption webpage="ipoteka" alt=""/>
+    </file>
+    <file name="bank-raiffeisen@2x_2x.png" crc="138885042" seo="true" ref="ipoteka">
+      <caption webpage="ipoteka" alt=""/>
+      <caption webpage="ipoteka" alt=""/>
+    </file>
+    <file name="bank-smp@2x.png" crc="131965321" seo="true" ref="ipoteka">
+      <caption webpage="ipoteka" alt=""/>
+      <caption webpage="ipoteka" alt=""/>
+    </file>
+    <file name="bank-smp@2x_2x.png" crc="489317531" seo="true" ref="ipoteka">
+      <caption webpage="ipoteka" alt=""/>
+      <caption webpage="ipoteka" alt=""/>
+    </file>
+    <file name="logo_otkritie@2x.png" crc="4082305356" ref="ipoteka">
+      <caption webpage="ipoteka" alt=""/>
+    </file>
+    <file name="logo_otkritie@2x_2x.png" crc="223750630" ref="ipoteka">
+      <caption webpage="ipoteka" alt=""/>
+    </file>
+    <file name="bank-sber@2x.png" crc="3765152303" seo="true" ref="ipoteka">
+      <caption webpage="ipoteka" alt=""/>
+      <caption webpage="ipoteka" alt=""/>
+    </file>
+    <file name="bank-sber@2x_2x.png" crc="23590883" seo="true" ref="ipoteka">
+      <caption webpage="ipoteka" alt=""/>
+      <caption webpage="ipoteka" alt=""/>
+    </file>
+    <file name="bank-vtb24@2x.png" crc="4004215351" ref="ipoteka">
+      <caption webpage="ipoteka" alt=""/>
+    </file>
+    <file name="bank-vtb24@2x_2x.png" crc="496796951" ref="ipoteka">
+      <caption webpage="ipoteka" alt=""/>
+    </file>
+    <file name="bank-uralsib@2x.png" crc="4256690121" ref="ipoteka">
+      <caption webpage="ipoteka" alt=""/>
+    </file>
+    <file name="bank-uralsib@2x_2x.png" crc="4281750148" ref="ipoteka">
+      <caption webpage="ipoteka" alt=""/>
+    </file>
+    <file name="voennaya-ipoteka@2x.jpg" crc="4185103063" ref="ipoteka">
+      <caption webpage="ipoteka" alt=""/>
+    </file>
+    <file name="voennaya-ipoteka@2x_2x.jpg" crc="520122075" ref="ipoteka">
+      <caption webpage="ipoteka" alt=""/>
+    </file>
+    <file name="voennaya-ipoteka@2x2.jpg" crc="520122075" ref="ipoteka">
+      <caption webpage="ipoteka" alt=""/>
+    </file>
+    <file name="4-flat-floor@2x.png" crc="3849065330" seo="true" ref="4-flat-section">
+      <caption webpage="4-flat-section" alt=""/>
+      <caption webpage="4-flat-section" alt=""/>
+    </file>
+    <file name="4-flat-floor@2x_2x.png" crc="3974871810" seo="true" ref="4-flat-section">
+      <caption webpage="4-flat-section" alt=""/>
+      <caption webpage="4-flat-section" alt=""/>
+    </file>
+    <file name="sitplan-k45@2x.png" crc="267882100" seo="true" ref="4-flat-section:5-flat-section:8-flat-section">
+      <caption webpage="8-flat-section" alt=""/>
+      <caption webpage="8-flat-section" alt=""/>
+      <caption webpage="8-flat-section" alt=""/>
+      <caption webpage="5-flat-section" alt=""/>
+      <caption webpage="5-flat-section" alt=""/>
+      <caption webpage="4-flat-section" alt=""/>
+      <caption webpage="4-flat-section" alt=""/>
+    </file>
+    <file name="sitplan-k45@2x_2x.png" crc="17854663" seo="true" ref="4-flat-section:5-flat-section:8-flat-section">
+      <caption webpage="8-flat-section" alt=""/>
+      <caption webpage="8-flat-section" alt=""/>
+      <caption webpage="8-flat-section" alt=""/>
+      <caption webpage="5-flat-section" alt=""/>
+      <caption webpage="5-flat-section" alt=""/>
+      <caption webpage="4-flat-section" alt=""/>
+      <caption webpage="4-flat-section" alt=""/>
+    </file>
+    <file name="k6-s1@2x.png" crc="290476200" ref="4-flat-section:5-flat-section:8-flat-section">
+      <caption webpage="4-flat-section" alt=""/>
+    </file>
+    <file name="k6-s1@2x_2x.png" crc="383376713" ref="4-flat-section:5-flat-section:8-flat-section">
+      <caption webpage="4-flat-section" alt=""/>
+    </file>
+    <file name="k6-s2@2x.png" crc="43699621" ref="4-flat-section:5-flat-section:8-flat-section">
+      <caption webpage="4-flat-section" alt=""/>
+    </file>
+    <file name="k6-s2@2x_2x.png" crc="3871091254" ref="4-flat-section:5-flat-section:8-flat-section">
+      <caption webpage="4-flat-section" alt=""/>
+    </file>
+    <file name="k6-s3@2x.png" crc="131610995" ref="4-flat-section:5-flat-section:8-flat-section">
+      <caption webpage="4-flat-section" alt=""/>
+    </file>
+    <file name="k6-s3@2x_2x.png" crc="496968618" ref="4-flat-section:5-flat-section:8-flat-section">
+      <caption webpage="4-flat-section" alt=""/>
+    </file>
+    <file name="k4-s1@2x.png" crc="4276078937" ref="4-flat-section:5-flat-section:8-flat-section">
+      <caption webpage="4-flat-section" alt=""/>
+    </file>
+    <file name="k4-s1@2x_2x.png" crc="3882298911" ref="4-flat-section:5-flat-section:8-flat-section">
+      <caption webpage="4-flat-section" alt=""/>
+    </file>
+    <file name="k4-s2@2x.png" crc="4047266964" ref="4-flat-section:5-flat-section:8-flat-section">
+      <caption webpage="4-flat-section" alt=""/>
+    </file>
+    <file name="k4-s2@2x_2x.png" crc="4064028902" ref="4-flat-section:5-flat-section:8-flat-section">
+      <caption webpage="4-flat-section" alt=""/>
+    </file>
+    <file name="k4-s3@2x.png" crc="9427818" ref="4-flat-section:5-flat-section:8-flat-section">
+      <caption webpage="4-flat-section" alt=""/>
+    </file>
+    <file name="k4-s3@2x_2x.png" crc="3971813389" ref="4-flat-section:5-flat-section:8-flat-section">
+      <caption webpage="4-flat-section" alt=""/>
+    </file>
+    <file name="k4-s4@2x.png" crc="9427818" ref="4-flat-section:5-flat-section:8-flat-section">
+      <caption webpage="4-flat-section" alt=""/>
+    </file>
+    <file name="k4-s4@2x_2x.png" crc="3971813389" ref="4-flat-section:5-flat-section:8-flat-section">
+      <caption webpage="4-flat-section" alt=""/>
+    </file>
+    <file name="k5-s1@2x.png" crc="161508787" ref="4-flat-section:5-flat-section:8-flat-section">
+      <caption webpage="4-flat-section" alt=""/>
+    </file>
+    <file name="k5-s1@2x_2x.png" crc="3809357955" ref="4-flat-section:5-flat-section:8-flat-section">
+      <caption webpage="4-flat-section" alt=""/>
+    </file>
+    <file name="k5-s3@2x.png" crc="4251816186" ref="4-flat-section:5-flat-section:8-flat-section">
+      <caption webpage="4-flat-section" alt=""/>
+    </file>
+    <file name="k5-s3@2x_2x.png" crc="428056040" ref="4-flat-section:5-flat-section:8-flat-section">
+      <caption webpage="4-flat-section" alt=""/>
+    </file>
+    <file name="k5-s2@2x.png" crc="4164659858" ref="4-flat-section:5-flat-section:8-flat-section">
+      <caption webpage="4-flat-section" alt=""/>
+    </file>
+    <file name="k5-s2@2x_2x.png" crc="97836378" ref="4-flat-section:5-flat-section:8-flat-section">
+      <caption webpage="4-flat-section" alt=""/>
+    </file>
+    <file name="back-to-genplan@2x.png" crc="383949757" ref="4-flat-section:5-flat-section:8-flat-section">
+      <caption webpage="4-flat-section" alt=""/>
+    </file>
+    <file name="back-to-genplan@2x_2x.png" crc="3883182055" ref="4-flat-section:5-flat-section:8-flat-section">
+      <caption webpage="4-flat-section" alt=""/>
+    </file>
+    <file name="back-to-genplan@2x-buttonu579972-fr.png" crc="4192533612" ref="4-flat-section:5-flat-section:8-flat-section"/>
+    <file name="back-to-genplan@2x-buttonu579972-fr_2x.png" crc="4056647425" ref="4-flat-section:5-flat-section:8-flat-section"/>
+    <file name="back-to-genplan-hover@2x.png" crc="3827347565" ref="4-flat-section:5-flat-section:8-flat-section">
+      <caption webpage="4-flat-section" alt=""/>
+    </file>
+    <file name="back-to-genplan-hover@2x_2x.png" crc="4236986864" ref="4-flat-section:5-flat-section:8-flat-section">
+      <caption webpage="4-flat-section" alt=""/>
+    </file>
+    <file name="yellow-arrow@2x.png" crc="4228253303" ref="4-flat-section:5-flat-section:8-flat-section">
+      <caption webpage="4-flat-section" alt=""/>
+    </file>
+    <file name="yellow-arrow@2x_2x.png" crc="104895003" ref="4-flat-section:5-flat-section:8-flat-section">
+      <caption webpage="4-flat-section" alt=""/>
+    </file>
+    <file name="january-photo-2018@2x.jpg" crc="512955615" ref="hod-stroitelstva">
+      <caption webpage="hod-stroitelstva" alt=""/>
+    </file>
+    <file name="january-photo-2018@2x_2x.jpg" crc="3838315857" ref="hod-stroitelstva">
+      <caption webpage="hod-stroitelstva" alt=""/>
+    </file>
+    <file name="december-photo@2x.jpg" crc="50380746" ref="hod-stroitelstva">
+      <caption webpage="hod-stroitelstva" alt=""/>
+    </file>
+    <file name="december-photo@2x_2x.jpg" crc="447519201" ref="hod-stroitelstva">
+      <caption webpage="hod-stroitelstva" alt=""/>
+    </file>
+    <file name="november-photo@2x.jpg" crc="4044971414" ref="hod-stroitelstva">
+      <caption webpage="hod-stroitelstva" alt=""/>
+    </file>
+    <file name="november-photo@2x_2x.jpg" crc="4281875008" ref="hod-stroitelstva">
+      <caption webpage="hod-stroitelstva" alt=""/>
+    </file>
+    <file name="october-photo@2x.jpg" crc="3911879592" ref="hod-stroitelstva">
+      <caption webpage="hod-stroitelstva" alt=""/>
+    </file>
+    <file name="october-photo@2x_2x.jpg" crc="439843484" ref="hod-stroitelstva">
+      <caption webpage="hod-stroitelstva" alt=""/>
+    </file>
+    <file name="september-photo@2x.jpg" crc="3889944271" ref="hod-stroitelstva">
+      <caption webpage="hod-stroitelstva" alt=""/>
+    </file>
+    <file name="september-photo@2x_2x.jpg" crc="4112961657" ref="hod-stroitelstva">
+      <caption webpage="hod-stroitelstva" alt=""/>
+    </file>
+    <file name="july-photo@2x.jpg" crc="310095864" ref="hod-stroitelstva">
+      <caption webpage="hod-stroitelstva" alt=""/>
+    </file>
+    <file name="july-photo@2x_2x.jpg" crc="312557416" ref="hod-stroitelstva">
+      <caption webpage="hod-stroitelstva" alt=""/>
+    </file>
+    <file name="june-photo@2x.jpg" crc="4248132917" ref="hod-stroitelstva">
+      <caption webpage="hod-stroitelstva" alt=""/>
+    </file>
+    <file name="june-photo@2x_2x.jpg" crc="3927602749" ref="hod-stroitelstva">
+      <caption webpage="hod-stroitelstva" alt=""/>
+    </file>
+    <file name="may-photo@2x.jpg" crc="443088195" ref="hod-stroitelstva">
+      <caption webpage="hod-stroitelstva" alt=""/>
+    </file>
+    <file name="may-photo@2x_2x.jpg" crc="422553185" ref="hod-stroitelstva">
+      <caption webpage="hod-stroitelstva" alt=""/>
+    </file>
+    <file name="april-photo@2x.jpg" crc="221450518" ref="hod-stroitelstva">
+      <caption webpage="hod-stroitelstva" alt=""/>
+    </file>
+    <file name="april-photo@2x_2x.jpg" crc="410792352" ref="hod-stroitelstva">
+      <caption webpage="hod-stroitelstva" alt=""/>
+    </file>
+    <file name="march-photo@2x.jpg" crc="171938385" ref="hod-stroitelstva">
+      <caption webpage="hod-stroitelstva" alt=""/>
+    </file>
+    <file name="march-photo@2x_2x.jpg" crc="223770231" ref="hod-stroitelstva">
+      <caption webpage="hod-stroitelstva" alt=""/>
+    </file>
+    <file name="february-photo@2x.jpg" crc="4165298978" ref="hod-stroitelstva">
+      <caption webpage="hod-stroitelstva" alt=""/>
+    </file>
+    <file name="february-photo@2x_2x.jpg" crc="4176401328" ref="hod-stroitelstva">
+      <caption webpage="hod-stroitelstva" alt=""/>
+    </file>
+    <file name="january-photo@2x.jpg" crc="4047006335" ref="hod-stroitelstva">
+      <caption webpage="hod-stroitelstva" alt=""/>
+    </file>
+    <file name="january-photo@2x_2x.jpg" crc="3926977856" ref="hod-stroitelstva">
+      <caption webpage="hod-stroitelstva" alt=""/>
+    </file>
+    <file name="zhd-station@2x.png" crc="3818146084" ref="viberite_kvartiru_v_gk_pozitiv">
+      <caption webpage="viberite_kvartiru_v_gk_pozitiv" alt=""/>
+    </file>
+    <file name="zhd-station@2x_2x.png" crc="148284071" ref="viberite_kvartiru_v_gk_pozitiv">
+      <caption webpage="viberite_kvartiru_v_gk_pozitiv" alt=""/>
+    </file>
+    <file name="5-min-to metro@2x.png" crc="4055511651" ref="viberite_kvartiru_v_gk_pozitiv">
+      <caption webpage="viberite_kvartiru_v_gk_pozitiv" alt=""/>
+    </file>
+    <file name="5-min-to metro@2x_2x.png" crc="85660230" ref="viberite_kvartiru_v_gk_pozitiv">
+      <caption webpage="viberite_kvartiru_v_gk_pozitiv" alt=""/>
+    </file>
+    <file name="viborshik-bg@2x.jpg" crc="4019938673" ref="viberite_kvartiru_v_gk_pozitiv">
+      <caption webpage="viberite_kvartiru_v_gk_pozitiv" alt=""/>
+    </file>
+    <file name="zhd-station@2x-u483724-fr.png" crc="3800404247" ref="viberite_kvartiru_v_gk_pozitiv"/>
+    <file name="zhd-station@2x-u483724-fr_2x.png" crc="347433158" ref="viberite_kvartiru_v_gk_pozitiv"/>
+    <file name="5-min-to metro@2x-u483725-fr.png" crc="4244625686" ref="viberite_kvartiru_v_gk_pozitiv"/>
+    <file name="5-min-to metro@2x-u483725-fr_2x.png" crc="4055511651" ref="viberite_kvartiru_v_gk_pozitiv"/>
+    <file name="viborshik-bg@2x2.jpg" crc="4294095231" ref="viberite_kvartiru_v_gk_pozitiv">
+      <caption webpage="viberite_kvartiru_v_gk_pozitiv" alt=""/>
+      <caption webpage="viberite_kvartiru_v_gk_pozitiv" alt=""/>
+      <caption webpage="viberite_kvartiru_v_gk_pozitiv" alt=""/>
+    </file>
+    <file name="viborshik-bg@2x_2x.jpg" crc="4019938673" ref="viberite_kvartiru_v_gk_pozitiv">
+      <caption webpage="viberite_kvartiru_v_gk_pozitiv" alt=""/>
+      <caption webpage="viberite_kvartiru_v_gk_pozitiv" alt=""/>
+      <caption webpage="viberite_kvartiru_v_gk_pozitiv" alt=""/>
+    </file>
+    <file name="zhd-station@2x-u483724-fr2.png" crc="41693360" ref="viberite_kvartiru_v_gk_pozitiv"/>
+    <file name="zhd-station@2x-u483724-fr_2x2.png" crc="3869527068" ref="viberite_kvartiru_v_gk_pozitiv"/>
+    <file name="5-min-to metro@2x-u483725-fr2.png" crc="4086417407" ref="viberite_kvartiru_v_gk_pozitiv"/>
+    <file name="5-min-to metro@2x-u483725-fr_2x2.png" crc="4040169085" ref="viberite_kvartiru_v_gk_pozitiv"/>
+    <file name="zhd-station@2x-u483724-fr3.png" crc="3975827279" ref="viberite_kvartiru_v_gk_pozitiv"/>
+    <file name="zhd-station@2x-u483724-fr_2x3.png" crc="4256108753" ref="viberite_kvartiru_v_gk_pozitiv"/>
+    <file name="5-min-to metro@2x-u483725-fr3.png" crc="99333230" ref="viberite_kvartiru_v_gk_pozitiv"/>
+    <file name="5-min-to metro@2x-u483725-fr_2x3.png" crc="147926591" ref="viberite_kvartiru_v_gk_pozitiv"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="kvartiry_v_rumyantsevo.css" crc="175051877" ref="tablet>kvartiry_v_rumyantsevo"/>
+      <file name="chose-flats.css" crc="287178939" ref="tablet>chose-flats"/>
+      <file name="nomq_chose-flats.css" crc="3824530138" ref="tablet>chose-flats"/>
+      <file name="index.css" crc="498800458" ref="tablet>index"/>
+      <file name="nomq_index.css" crc="16472945" ref="tablet>index"/>
+      <file name="iefonts_index.css" crc="3918428983" ref="tablet>index"/>
+    </folder>
+    <file name="index.html" crc="292999196" seo="true" mt="1519231519469" redirect="true"/>
+    <file name="kvartiry_v_rumyantsevo.html" crc="4190969546" seo="true" mt="1519231547338" redirect="true"/>
+    <file name="chose-flats.html" crc="3929837803" seo="true" mt="1519231517355" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="3917860664" ref="phone>index"/>
+      <file name="iefonts_index.css" crc="4013276194" ref="phone>index"/>
+      <file name="kvartiry_v_rumyantsevo.css" crc="276274870" ref="phone>kvartiry_v_rumyantsevo"/>
+      <file name="nomq_kvartiry_v_rumyantsevo.css" crc="3824530138" ref="phone>kvartiry_v_rumyantsevo"/>
+    </folder>
+    <file name="index.html" crc="4281464251" seo="true" mt="1519231519500" redirect="true"/>
+    <file name="kvartiry_v_rumyantsevo.html" crc="111450976" seo="true" mt="1519231547426" redirect="true"/>
+  </folder>
+  <file name="flats-parametrics.html" crc="3936569826" seo="true" mt="1519231700367" redirect="true"/>
+  <file name="kontakty.html" crc="251122345" seo="true" mt="1519231700730" redirect="true"/>
+  <file name="gallereya_dom_pozitiv.html" crc="3908853413" seo="true" mt="1519231700153" redirect="true"/>
+  <file name="kvartiry_v_rumyantsevo.html" crc="3799462777" mt="1519231705081" redirect="true"/>
+  <file name="proektnaya_deklaraсia.html" crc="251367990" mt="1519231703187" redirect="true"/>
+  <file name="infrastruktura_rumyantsevo.html" crc="26866310" seo="true" mt="1519231700731" redirect="true"/>
+  <file name="index.html" crc="3811372478" seo="true" mt="1519570977798" redirect="true"/>
+  <file name="o_proekte_gk_pozitiv.html" crc="65408530" seo="true" mt="1519231705082" redirect="true"/>
+  <file name="kak_kupit_kvartiru.html" crc="80400609" seo="true" mt="1519231700367" redirect="true"/>
+  <file name="flat-card.html" crc="3930366908" mt="1519231704005" redirect="true"/>
+  <file name="novosti_kvartiry_v_rumyantsevo.html" crc="4166975027" seo="true" mt="1519231700367" redirect="true"/>
+  <file name="news-details.html" crc="149042802" seo="true" mt="1519231705076" redirect="true"/>
+  <file name="pano-1.html" crc="4003991258" seo="true" mt="1519231700367" redirect="true"/>
+  <file name="ipoteka.html" crc="3931652669" seo="true" mt="1519231701434" redirect="true"/>
+  <file name="4-flat-section.html" crc="339057460" seo="true" mt="1519231704752" redirect="true"/>
+  <file name="hod-stroitelstva.html" crc="209505186" seo="true" mt="1519578468575" redirect="true"/>
+  <file name="callbackform.html" crc="364093442" mt="1508487976932" redirect="true"/>
+  <file name="viberite_kvartiru_v_gk_pozitiv.html" crc="4112770079" seo="true" mt="1519231704642" redirect="true"/>
+  <file name="5-flat-section.html" crc="477200263" seo="true" mt="1519231704751" redirect="true"/>
+  <file name="8-flat-section.html" crc="307104752" seo="true" mt="1519231704753" redirect="true"/>
+  <file name="o-novoy-moskve.html" crc="430598083" seo="true" mt="1519231705082" redirect="true"/>
+  <site>
+    <asset filename="map-icon-metro@2x.png" muse_href="upload:U41000"/>
+    <asset filename="gallery-images3@2x.jpg" muse_href="upload:U46047"/>
+    <asset filename="gallery-image2@2x.jpg" muse_href="upload:U46049"/>
+    <asset filename="gallery-image1@2x.jpg" muse_href="upload:U46051"/>
+    <asset filename="gallery-image4@2x.jpg" muse_href="upload:U46053"/>
+    <asset filename="gallery-image5@2x.jpg" muse_href="upload:U46055"/>
+    <asset filename="gallery-image6@2x.jpg" muse_href="upload:U46057"/>
+    <asset filename="gallery-image7@2x.jpg" muse_href="upload:U46059"/>
+    <asset filename="gallery-image10@2x.jpg" muse_href="upload:U46061"/>
+    <asset filename="gallery-image11@2x.jpg" muse_href="upload:U46063"/>
+    <asset filename="map-icon-prud@2x.png" muse_href="upload:U54551"/>
+    <asset filename="map-icon-rio@2x.png" muse_href="upload:U54555"/>
+    <asset filename="map-icon-lk@2x.png" muse_href="upload:U55121"/>
+    <asset filename="map-icon-detsad@2x.png" muse_href="upload:U55123"/>
+    <asset filename="map-icon-hospital@2x.png" muse_href="upload:U56481"/>
+    <asset filename="map-icon-swimmingpool@2x.png" muse_href="upload:U68577"/>
+    <asset filename="map-icon-education@2x.png" muse_href="upload:U68579"/>
+    <asset filename="map-icon-cinema@2x.png" muse_href="upload:U68581"/>
+    <asset filename="canvas-pozitiv.png" muse_href="upload:U68585"/>
+    <asset filename="pozitiv-canvas.png" muse_href="upload:U80538"/>
+    <asset filename="gallery-image13@2x.jpg" muse_href="upload:U95444"/>
+    <asset filename="gallery-image12@2x.jpg" muse_href="upload:U95446"/>
+    <asset filename="pano1.jpg" muse_href="upload:U125317"/>
+    <asset filename="pano1-preview.jpg" muse_href="upload:U125321"/>
+    <asset filename="mail-form.php" muse_href="upload:U193807"/>
+    <asset filename="close-video-player-btn-prrsd@2x.png" muse_href="upload:U574996"/>
+    <asset filename="close-video-player-btn@2x.png" muse_href="upload:U574998"/>
+    <asset filename="map-icon-office@2x.png" muse_href="upload:U701171"/>
+    <paragraphStyle className="normal_text" uid="U49"/>
+    <paragraphStyle className="ts------8" uid="U4883"/>
+    <paragraphStyle className="ts------2" uid="U5224"/>
+    <paragraphStyle className="call_phone_1" uid="U35202"/>
+    <paragraphStyle className="title-docs" uid="U36647"/>
+    <paragraphStyle className="ts------17" uid="U54138"/>
+    <paragraphStyle className="Paragraph-Style" uid="U71902"/>
+    <paragraphStyle className="call_phone_m" uid="U71903"/>
+    <paragraphStyle className="ts------1" uid="U95485"/>
+    <paragraphStyle className="ts------11" uid="U95514"/>
+    <paragraphStyle className="ts------111" uid="U187967"/>
+    <paragraphStyle className="mainfont" uid="U559580"/>
+    <characterStyle className="main-text-Character-Style" uid="U30806"/>
+    <characterStyle className="call_phone_11" uid="U35309"/>
+    <characterStyle className="flat-number" uid="U141650"/>
+    <textLinkStyle className="o-proekte" uid="U603103"/>
+    <textLinkStyle className="novosti" uid="U651879"/>
+    <textLinkStyle className="kvartiri" uid="U651931"/>
+    <nestedListStyle className="nls-None" uid="U52"/>
+  </site>
+  <renditions>
+    <rendition device="desktop">
+      <page name="Параметрический выборщик" filename="flats-parametrics.html" muse_href="page:U4280" master="U77718">
+        <breakpoint uid="U4258" maxwidth="1336" minwidth="0" squishy="true"/>
+      </page>
+      <masterPage name="top" master="U62" uid="U77718">
+        <breakpoint uid="U180854" maxwidth="1175" minwidth="0" squishy="true"/>
+        <breakpoint uid="U77754" maxwidth="1336" minwidth="1176" squishy="true"/>
+      </masterPage>
+      <masterPage name="None" master="null" uid="U62">
+        <breakpoint uid="U63" maxwidth="960" minwidth="0" squishy="true"/>
+      </masterPage>
+      <page name="Контакты" filename="kontakty.html" muse_href="page:U5326" master="U77718">
+        <breakpoint uid="U201876" maxwidth="1620" minwidth="0" squishy="true"/>
+      </page>
+      <page name="Галерея" filename="gallereya_dom_pozitiv.html" muse_href="page:U7360" master="U62">
+        <breakpoint uid="U7338" maxwidth="1160" minwidth="0" squishy="false"/>
+      </page>
+      <page name="Квартиры" filename="kvartiry_v_rumyantsevo.html" muse_href="page:U7992" master="U77718">
+        <breakpoint uid="U7976" maxwidth="1366" minwidth="0" squishy="true"/>
+        <breakpoint uid="U36819" maxwidth="1640" minwidth="1367" squishy="true"/>
+      </page>
+      <page name="Документы" filename="proektnaya_deklaraсia.html" muse_href="page:U8554" master="U77718">
+        <breakpoint uid="U8532" maxwidth="1336" minwidth="0" squishy="true"/>
+        <breakpoint uid="U380813" maxwidth="1573" minwidth="1337" squishy="true"/>
+      </page>
+      <page name="Транспортная доступность" filename="infrastruktura_rumyantsevo.html" muse_href="page:U8602" master="U77718">
+        <breakpoint uid="U8580" maxwidth="1336" minwidth="0" squishy="true"/>
+      </page>
+      <page name="Главная" filename="index.html" muse_href="page:U10098" master="U77718">
+        <breakpoint uid="U383002" maxwidth="1280" minwidth="0" squishy="true"/>
+      </page>
+      <page name="О проекте" filename="o_proekte_gk_pozitiv.html" muse_href="page:U22699" master="U77718">
+        <breakpoint uid="U22671" maxwidth="1420" minwidth="0" squishy="true"/>
+        <breakpoint uid="U29365" maxwidth="1600" minwidth="1421" squishy="true"/>
+        <breakpoint uid="U474184" maxwidth="1800" minwidth="1601" squishy="true"/>
+      </page>
+      <page name="Как купить" filename="kak_kupit_kvartiru.html" muse_href="page:U29129" master="U77718">
+        <breakpoint uid="U29101" maxwidth="1336" minwidth="0" squishy="true"/>
+      </page>
+      <page name="Карточка квартиры" filename="flat-card.html" muse_href="page:U36499" master="U77718">
+        <breakpoint uid="U82771" maxwidth="1024" minwidth="0" squishy="true"/>
+        <breakpoint uid="U36464" maxwidth="1336" minwidth="1025" squishy="true"/>
+      </page>
+      <page name="Новости" filename="novosti_kvartiry_v_rumyantsevo.html" muse_href="page:U48416" master="U77718">
+        <breakpoint uid="U228292" maxwidth="1336" minwidth="0" squishy="true"/>
+      </page>
+      <page name="Новость" filename="news-details.html" muse_href="page:U56463" master="U77718">
+        <breakpoint uid="U56444" maxwidth="1336" minwidth="0" squishy="true"/>
+      </page>
+      <page name="3D точка 1" filename="pano-1.html" muse_href="page:U79921" master="U77718">
+        <breakpoint uid="U79893" maxwidth="1336" minwidth="0" squishy="true"/>
+      </page>
+      <page name="Ипотека" filename="ipoteka.html" muse_href="page:U81893" master="U77718">
+        <breakpoint uid="U81850" maxwidth="1336" minwidth="0" squishy="true"/>
+      </page>
+      <page name="Секция (4 квартиры)" filename="4-flat-section.html" muse_href="page:U124872" master="U77718">
+        <breakpoint uid="U124844" maxwidth="1280" minwidth="0" squishy="true"/>
+      </page>
+      <page name="Ход строительства" filename="hod-stroitelstva.html" muse_href="page:U164674" master="U77718">
+        <breakpoint uid="U164646" maxwidth="1336" minwidth="0" squishy="true"/>
+      </page>
+      <page name="Форма обратной связи" filename="callbackform.html" muse_href="page:U186474" master="U62">
+        <breakpoint uid="U186446" maxwidth="540" minwidth="0" squishy="true"/>
+      </page>
+      <page name="Визуальный выборщик" filename="viberite_kvartiru_v_gk_pozitiv.html" muse_href="page:U365924" master="U77718">
+        <breakpoint uid="U381830" maxwidth="1366" minwidth="0" squishy="true"/>
+        <breakpoint uid="U575682" maxwidth="1600" minwidth="1367" squishy="true"/>
+        <breakpoint uid="U582883" maxwidth="1900" minwidth="1601" squishy="true"/>
+      </page>
+      <page name="Секция (5 квартир)" filename="5-flat-section.html" muse_href="page:U492731" master="U77718">
+        <breakpoint uid="U492500" maxwidth="1280" minwidth="0" squishy="true"/>
+      </page>
+      <page name="Секция (8 квартир)" filename="8-flat-section.html" muse_href="page:U494500" master="U77718">
+        <breakpoint uid="U494163" maxwidth="1280" minwidth="0" squishy="true"/>
+        <breakpoint uid="U630784" maxwidth="1366" minwidth="1281" squishy="true"/>
+      </page>
+      <page name="О новой Москве" filename="o-novoy-moskve.html" muse_href="page:U659390" master="U77718">
+        <breakpoint uid="U659362" maxwidth="1336" minwidth="0" squishy="true"/>
+      </page>
+    </rendition>
+    <rendition device="tablet">
+      <page name="Главная" filename="index.html" muse_href="page:U49627" master="U49542">
+        <breakpoint uid="U49599" maxwidth="500" minwidth="0" squishy="true"/>
+        <breakpoint uid="U50378" maxwidth="720" minwidth="501" squishy="true"/>
+        <anchor name="about" html_id="about" muse_href="anchor:U49598:U49913" includeInBPs="U49599,U50378"/>
+        <anchor name="contacts" html_id="contacts" muse_href="anchor:U49598:U49915" includeInBPs="U49599,U50378"/>
+      </page>
+      <masterPage name="None" master="null" uid="U49542">
+        <breakpoint uid="U49543" maxwidth="768" minwidth="0" squishy="true"/>
+      </masterPage>
+      <page name="Квартиры" filename="kvartiry_v_rumyantsevo.html" muse_href="page:U49657" master="U49542">
+        <breakpoint uid="U49629" maxwidth="768" minwidth="0" squishy="true"/>
+      </page>
+      <page name="Выборщик квартир" filename="chose-flats.html" muse_href="page:U68846" master="U49542">
+        <breakpoint uid="U68806" maxwidth="768" minwidth="0" squishy="true"/>
+      </page>
+    </rendition>
+    <rendition device="phone">
+      <page name="Главная" filename="index.html" muse_href="page:U39168" master="U39083">
+        <breakpoint uid="U39140" maxwidth="380" minwidth="0" squishy="true"/>
+        <anchor name="about" html_id="about" muse_href="anchor:U39139:U46073" includeInBPs="U39140"/>
+        <anchor name="contacts" html_id="contacts" muse_href="anchor:U39139:U49535" includeInBPs="U39140"/>
+      </page>
+      <masterPage name="None" master="null" uid="U39083">
+        <breakpoint uid="U39084" maxwidth="380" minwidth="0" squishy="true"/>
+      </masterPage>
+      <page name="Квартиры" filename="kvartiry_v_rumyantsevo.html" muse_href="page:U45608" master="U39083">
+        <breakpoint uid="U45580" maxwidth="380" minwidth="0" squishy="true"/>
+      </page>
+    </rendition>
+  </renditions>
+</manifest>

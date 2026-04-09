@@ -1,0 +1,542 @@
+<!DOCTYPE html>
+<html class="nojs html" lang="ru-RU">
+<head>
+
+  <meta http-equiv="Content-type" content="text/html;charset=UTF-8"/>
+  <meta name="generator" content="2017.1.0.379"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <link rel="shortcut icon" href="/images/favicon.ico?crc=238351894"/>
+  <title>ЖК «Позитив» – документы</title>
+  <style>
+
+    @font-face {
+      font-family: '__Panton_5';
+      src: url('../phone/fonts/panton.eot');
+      src: local('☺'), url('../phone/fonts/panton.woff') format('woff'), url('../phone/fonts/panton.svg') format('svg');
+      font-weight: 400;
+      font-style: normal;
+    }
+
+    @font-face {
+      font-family: '__Panton_5';
+      src: url('../phone/fonts/panton%20bold.eot');
+      src: local('☺'), url('../phone/fonts/panton%20bold.woff') format('woff'), url('../phone/fonts/panton%20bold.svg') format('svg');
+      font-weight: 700;
+      font-style: normal;
+    }
+
+    @font-face {
+      font-family: '__Ubuntu_5';
+      src: url('../phone/fonts/ubuntu.eot');
+      src: local('☺'), url('../phone/fonts/ubuntu.woff') format('woff'), url('../phone/fonts/ubuntu.svg') format('svg');
+      font-weight: 400;
+      font-style: normal;
+    }
+
+    @font-face {
+      font-family: '__Panton_5';
+      src: url('../phone/fonts/panton%20semibold.eot');
+      src: local('☺'), url('../phone/fonts/panton%20semibold.woff') format('woff'), url('../phone/fonts/panton%20semibold.svg') format('svg');
+      font-weight: 600;
+      font-style: normal;
+    }
+
+
+    .documents-section {
+      padding: 90px 20px 0;
+    }
+    .documents__title {
+      font-size: 20px;
+      line-height: 26px;
+      text-align: left;
+      margin: 0 0 20px 0;
+      color: #fff;
+      font-family: sans-serif;
+    }
+    .documents-list a {
+      display: block;
+      text-decoration: none;
+      position: relative;
+      padding: 0 0 0 15px;
+      margin: 0 0 10px 0;
+    }
+    .documents-list {
+      margin-bottom: 20px;
+      display: flex;
+      flex-direction: column;
+    }
+    .documents-list a::before {
+      content: '';
+      width: 4px;
+      height: 4px;
+      -webkit-border-radius: 50%;
+      -moz-border-radius: 50%;
+      border-radius: 50%;
+      position: absolute;
+      top: 6px;
+      left: 0;
+      background-color: #fff;
+    }
+    .documents-list a p,
+    .documents-list a  {
+      color: #fff;
+      font-size: 14px;
+      font-family: sans-serif;
+    }
+    .documents-list-first {
+      margin-bottom: 20px;
+    }
+    p.documents-laws {
+      color: #fff;
+      font-size: 9px;
+      line-height: 11px;
+    }
+
+    .documents-list-archive {
+      display: flex;
+      align-items: center;
+      justify-content: flex-start;
+      margin: 30px 0;
+    }
+    .documents-list-archive p {
+      color: #fff;
+      font-size: 16px;
+      line-height:  25px;
+      font-family: sans-serif;
+    }
+    .documents-list-archive__link {
+      background-image: url("images/zip@2x.png");
+      -webkit-background-size: cover;
+      background-size: cover;
+      background-repeat: no-repeat;
+      width: 44px;
+      height: 50px;
+    }
+
+    .header.header-custom {
+      border-width: 0px;
+      box-shadow: 1px 1px 3px rgba(0,0,0,0.1);
+      border-color: #000000;
+      background-color: #FFFFFF;
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      z-index: 2000;
+    }
+    .header__wrap {
+      padding: 10px 20px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+    
+    .header-trigger {
+      width: 37px;
+      background-color: transparent;
+    }
+    .header-trigger span {
+      display: block;
+      z-index: 14;
+      width: 37px;
+      height: 2px;
+      background-color: #353535;
+    }
+    .header-trigger span:nth-child(2){
+      margin-top: 6px;
+    }
+    .header-trigger span:last-child {
+      margin-top: 6px;
+    }
+
+    .menu {
+      background-color: rgb(242, 242, 242);
+      height: 100vh;
+      position: absolute;
+      top: 0;
+      left: 0;
+      transform: translateY(-100%);
+      transition: transform 1s ease 0s;
+      width: 100%;
+    }
+    .menu.opened {
+      transform: translateY(0);
+    }
+
+    .menu__close {
+      background-image: url(images/close_musemenupro_2x.png?crc=481936843);
+      background-size: cover;
+      background-repeat: no-repeat;
+      width: 44px;
+      height: 41px;
+      position: absolute;
+      top: 10px;
+      right: 10px;
+    }
+    .menu__wrap {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100%;
+    }
+    .menu__logo {
+      max-width: 240px;
+      margin: 0 auto 30px;
+    }
+    .menu__logo img {
+      width: 100%;
+    }
+    .menu__item {
+      text-align: center;
+      margin: 0 0 20px 0;
+    }
+
+    a.menu__link {
+      font-size: 27px;
+      line-height: 32px;
+      font-family: '__Panton_5';
+      font-weight: 600;
+      text-transform: lowercase;
+    }
+
+    a.menu__link--pink {
+      color: #D4145A!important;
+    }
+    a.menu__link--yellow {
+      color: #F89900!important;
+    }
+    a.menu__link--blue {
+      color: #0083C9!important;
+    }
+    a.menu__link--green {
+      color: #4BA93F!important;
+    }
+
+
+
+
+
+
+  </style>
+
+  <link rel="stylesheet" type="text/css" href="css/index.css?crc=3917860664" id="pagesheet">
+  <link rel="stylesheet" type="text/css" href="../css/site_global.css?crc=4032550449">
+</head>
+<body style="background-image:url('images/docs-bg@2x.jpg'); -webkit-background-size: cover;background-size: cover; background-repeat: no-repeat;background-position: top left;">
+
+  <header class="header header-custom">
+    <div class="header__wrap">
+      <a href="http://www.дом-позитив.рф" class="">
+        <img class="block" id="u45002_img" src="../images/logo%402x227x48_2x.png?crc=3806410468" data-hidpi-src="../images/logo%402x227x48_2x.png?crc=3806410468" alt="" width="227" height="47" data-muse-src="../images/logo%402x227x48.png?crc=4014315840" data-src="../images/logo%402x227x48.png?crc=4014315840">
+      </a>
+      <button class="header-trigger">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+
+    </div>
+    <div class="menu">
+      <span class="menu__close" aria-label="закрыть меню"></span>
+      <div class="menu__wrap">
+        <figure class="menu__logo">
+          <img class="block"  src="../images/logo-centered%402x361x95.png?crc=21703650" data-hidpi-src="../images/logo-centered%402x_2x.png?crc=4089599094" alt="" data-muse-src="../images/logo-centered%402x361x95.png?crc=21703650" data-heightwidthratio="0.26141078838174275" data-image-width="241" data-image-height="63" data-widget-id="accordionu45018">
+        </figure>
+        <ul class="menu__list">
+          <li class="menu__item">
+            <a href="index.html#about" class="menu__link menu__link--pink">О проекте</a>
+          </li>
+          <li class="menu__item">
+            <a class="menu__link menu__link--blue">Документы</a>
+          </li>
+          <li class="menu__item">
+            <a href="index.html#contacts" class="menu__link menu__link--green">Контакты</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </header>
+
+  <section class="documents-section">
+
+
+    <h2 class="documents__title">Документы</h2>
+
+    <div class="documents">
+
+      <div class="documents-list documents-list-first">
+
+        <a class="nonblock nontext Button clearfix grpelem"   href="http://dom-pozitiv.ru/static/documents/1PD.doc" target="_blank" style="" data-muse-uid="U475204" data-sizepolicy="fixed" data-pintopage="page_fixedCenter" >
+          <div class="clearfix grpelem"   data-muse-uid="U475205" data-muse-type="txt_frame" data-sizepolicy="fixed" data-pintopage="page_fluidx">
+            <p>Проектная декларация 25.09.2016</p>
+          </div>
+        </a>
+
+        <a class="nonblock nontext Button clearfix grpelem"   href="http://dom-pozitiv.ru/static/documents/2PD.doc" target="_blank" style="" data-muse-uid="U475204" data-sizepolicy="fixed" data-pintopage="page_fixedCenter" >
+          <div class="clearfix grpelem"   data-muse-uid="U475205" data-muse-type="txt_frame" data-sizepolicy="fixed" data-pintopage="page_fluidx">
+            <p>Проектная декларация 30.09.2016</p>
+          </div>
+        </a>
+
+        <a class="nonblock nontext Button clearfix grpelem"   href="http://dom-pozitiv.ru/static/documents/3PD.doc" target="_blank" style="" data-muse-uid="U475204" data-sizepolicy="fixed" data-pintopage="page_fixedCenter" >
+          <div class="clearfix grpelem"   data-muse-uid="U475205" data-muse-type="txt_frame" data-sizepolicy="fixed" data-pintopage="page_fluidx">
+            <p>Проектная декларация 13.12.2016</p>
+          </div>
+        </a>
+
+        <a class="nonblock nontext Button clearfix grpelem"   href="http://dom-pozitiv.ru/static/documents/4PD.doc" target="_blank" style="" data-muse-uid="U475204" data-sizepolicy="fixed" data-pintopage="page_fixedCenter" >
+          <div class="clearfix grpelem"   data-muse-uid="U475205" data-muse-type="txt_frame" data-sizepolicy="fixed" data-pintopage="page_fluidx">
+            <p> Проектная декларация 31.12.2016</p>
+          </div>
+        </a>
+
+        <a class="nonblock nontext Button clearfix grpelem"   href="http://dom-pozitiv.ru/static/documents/5PD.doc" target="_blank" style="" data-muse-uid="U475204" data-sizepolicy="fixed" data-pintopage="page_fixedCenter" >
+          <div class="clearfix grpelem"   data-muse-uid="U475205" data-muse-type="txt_frame" data-sizepolicy="fixed" data-pintopage="page_fluidx">
+            <p>Проектная декларация 31.03.2017</p>
+          </div>
+        </a>
+
+        <a class="nonblock nontext Button clearfix grpelem"   href="http://dom-pozitiv.ru/static/documents/6PD.doc" target="_blank" style="" data-muse-uid="U475204" data-sizepolicy="fixed" data-pintopage="page_fixedCenter" >
+          <div class="clearfix grpelem"   data-muse-uid="U475205" data-muse-type="txt_frame" data-sizepolicy="fixed" data-pintopage="page_fluidx">
+            <p>Проектная декларация 30.06.2017</p>
+          </div>
+        </a>
+
+        <a class="nonblock nontext Button clearfix grpelem"   href="http://dom-pozitiv.ru/static/documents/7PD.doc" target="_blank" style="" data-muse-uid="U475204" data-sizepolicy="fixed" data-pintopage="page_fixedCenter" >
+          <div class="clearfix grpelem"   data-muse-uid="U475205" data-muse-type="txt_frame" data-sizepolicy="fixed" data-pintopage="page_fluidx">
+            <p>Проектная декларация 30.09.2017</p>
+          </div>
+        </a>
+
+        <a class="nonblock nontext Button clearfix grpelem"   href="http://dom-pozitiv.ru/static/documents/8PD.doc" target="_blank" style="" data-muse-uid="U475204" data-sizepolicy="fixed" data-pintopage="page_fixedCenter" >
+          <div class="clearfix grpelem"   data-muse-uid="U475205" data-muse-type="txt_frame" data-sizepolicy="fixed" data-pintopage="page_fluidx">
+            <p>Проектная декларация 31.12.2017</p>
+          </div>
+        </a>
+
+        <a class="nonblock nontext Button clearfix grpelem"   href="http://dom-pozitiv.ru/static/documents/9PD.doc" target="_blank" style="" data-muse-uid="U475204" data-sizepolicy="fixed" data-pintopage="page_fixedCenter" >
+          <div class="clearfix grpelem"   data-muse-uid="U475205" data-muse-type="txt_frame" data-sizepolicy="fixed" data-pintopage="page_fluidx">
+            <p>Проектная декларация 31.03.2018</p>
+          </div>
+        </a>
+
+        <a class="nonblock nontext Button clearfix grpelem"    href="http://dom-pozitiv.ru/static/documents/10pd_18jun2018_pd.doc" target="_blank" style="" data-muse-uid="U496685" data-sizepolicy="fixed" data-pintopage="page_fixedCenter" >
+          <div class="clearfix grpelem"   data-muse-uid="U496686" data-muse-type="txt_frame" data-sizepolicy="fixed" data-pintopage="page_fluidx">
+            <p> Проектная декларация 18.07.2018 </p>
+          </div>
+        </a>
+
+        <a class="nonblock nontext Button clearfix grpelem"    href="http://dom-pozitiv.ru/static/documents/proektnaya-deklaracia-31.07.2018.doc" target="_blank" style="" data-muse-uid="U496685" data-sizepolicy="fixed" data-pintopage="page_fixedCenter" >
+          <div class="clearfix grpelem"   data-muse-uid="U496686" data-muse-type="txt_frame" data-sizepolicy="fixed" data-pintopage="page_fluidx">
+            <p> Проектная декларация 31.07.2018 </p>
+          </div>
+        </a>
+
+        <a class="nonblock nontext Button clearfix grpelem"    href="http://dom-pozitiv.ru/static/documents/proektnaya-deklaraсia-21.02.2019.pdf" target="_blank" style="" data-muse-uid="U496685" data-sizepolicy="fixed" data-pintopage="page_fixedCenter" >
+          <div class="clearfix grpelem"   data-muse-uid="U496686" data-muse-type="txt_frame" data-sizepolicy="fixed" data-pintopage="page_fluidx">
+            <p> Проектная декларация 21.02.2019 </p>
+          </div>
+        </a>
+
+        <a class="nonblock nontext Button clearfix grpelem"    href="http://dom-pozitiv.ru/static/documents/proektnaya-deklaracia-31.01.2019.pdf" target="_blank" style="" data-muse-uid="U496685" data-sizepolicy="fixed" data-pintopage="page_fixedCenter" >
+          <div class="clearfix grpelem"   data-muse-uid="U496686" data-muse-type="txt_frame" data-sizepolicy="fixed" data-pintopage="page_fluidx">
+            <p> Проектная декларация 31.01.2019 </p>
+          </div>
+        </a>
+
+        <a class="nonblock nontext Button clearfix grpelem"    href="http://dom-pozitiv.ru/static/documents/proektnaya-deklaraсia-01.03.2019.pdf" target="_blank" style="" data-muse-uid="U496685" data-sizepolicy="fixed" data-pintopage="page_fixedCenter" >
+          <div class="clearfix grpelem"   data-muse-uid="U496686" data-muse-type="txt_frame" data-sizepolicy="fixed" data-pintopage="page_fluidx">
+            <p> Проектная декларация 01.03.2019 </p>
+          </div>
+        </a>
+
+        <a class="nonblock nontext Button clearfix grpelem"    href="http://dom-pozitiv.ru/static/documents/240419ПД_ПОЗИТИВ.pdf" target="_blank" style="" data-muse-uid="U496685" data-sizepolicy="fixed" data-pintopage="page_fixedCenter" >
+          <div class="clearfix grpelem"   data-muse-uid="U496686" data-muse-type="txt_frame" data-sizepolicy="fixed" data-pintopage="page_fluidx">
+            <p> Проектная декларация 24.04.2019 </p>
+          </div>
+        </a>
+        <a class="nonblock nontext Button clearfix grpelem"    href="http://dom-pozitiv.ru/static/documents/260719ПД_Жилой комплекс «ПОЗИТИВ».pdf" target="_blank" style="" data-muse-uid="U496685" data-sizepolicy="fixed" data-pintopage="page_fixedCenter" >
+          <div class="clearfix grpelem"   data-muse-uid="U496686" data-muse-type="txt_frame" data-sizepolicy="fixed" data-pintopage="page_fluidx">
+            <p> Проектная декларация 25.07.2019 </p>
+          </div>
+        </a>
+
+        <a class="nonblock nontext Button clearfix grpelem"   href="http://dom-pozitiv.ru/static/documents/audit-zakluchenie.pdf" target="_blank" style="" data-muse-uid="U475204" data-sizepolicy="fixed" data-pintopage="page_fixedCenter" >
+          <div class="clearfix grpelem"   data-muse-uid="U475205" data-muse-type="txt_frame" data-sizepolicy="fixed" data-pintopage="page_fluidx">
+            <p>Аудиторское заключение за 2017 год</p>
+          </div>
+        </a>
+
+        <a class="nonblock nontext Button clearfix grpelem"   href="http://dom-pozitiv.ru/static/documents/auditorskoe-zaklyuchenie-za-2018-god.pdf" target="_blank" style="" data-muse-uid="U475204" data-sizepolicy="fixed" data-pintopage="page_fixedCenter" >
+          <div class="clearfix grpelem"   data-muse-uid="U475205" data-muse-type="txt_frame" data-sizepolicy="fixed" data-pintopage="page_fluidx">
+            <p>Аудиторское заключение за 2018 год</p>
+          </div>
+        </a>
+
+        <a class="nonblock nontext Button clearfix grpelem" href="http://dom-pozitiv.ru/static/documents/Разрешение на строительство Румянцево (корр.).pdf" target="_blank" style="" data-muse-uid="U164296" data-sizepolicy="fixed" data-pintopage="page_fixedCenter" >
+          <div class="clearfix grpelem"   data-muse-uid="U164297" data-muse-type="txt_frame" data-sizepolicy="fixed" data-pintopage="page_fluidx">
+            <p>Разрешение на строительство</p>
+          </div>
+        </a>
+
+        <a class="nonblock nontext Button clearfix grpelem"  href="http://dom-pozitiv.ru/static/documents/polozhitelnoe-zakluchenie-ekspertizi.pdf" target="_blank" style="" data-muse-uid="U156467" data-sizepolicy="fixed" data-pintopage="page_fixedCenter" >
+          <div class="clearfix grpelem"   data-muse-uid="U156468" data-muse-type="txt_frame" data-sizepolicy="fixed" data-pintopage="page_fluidx">
+            <p>Положительное заключение экспертизы 2016</p>
+          </div>
+        </a>
+
+        <a class="nonblock nontext Button clearfix grpelem"  href="http://dom-pozitiv.ru/static/documents/Положительное заключение экспертизы (подписанное).pdf" target="_blank" style="" data-muse-uid="U156467" data-sizepolicy="fixed" data-pintopage="page_fixedCenter" >
+          <div class="clearfix grpelem"   data-muse-uid="U156468" data-muse-type="txt_frame" data-sizepolicy="fixed" data-pintopage="page_fluidx">
+            <p>Положительное заключение экспертизы 2019</p>
+          </div>
+        </a>
+
+      </div>
+
+      <div class="documents-list-archive">
+        <p class="">
+          Документы не открываются?<br>
+          скачайте их одним файлом.
+        </p>
+        <a class="documents-list-archive__link" href="http://www.dom-pozitiv.ru/static/documents/all_docs_Pozitiv.zip"></a>
+      </div>
+
+      <div class="documents-list documents-list-second">
+        <a class="nonblock nontext button clearfix grpelem"    href="http://dom-pozitiv.ru/static/documents/1к_100__1уч.docx" target="_blank" style="" data-muse-uid="u496685" data-sizepolicy="fixed" data-pintopage="page_fixedcenter">
+          <div class="clearfix grpelem"   data-muse-uid="u496686" data-muse-type="txt_frame" data-sizepolicy="fixed" data-pintopage="page_fluidx">
+            <p>Договор участия в долевом строительстве</p>
+          </div>
+        </a>
+
+        <a class="nonblock nontext button clearfix grpelem"    href="http://dom-pozitiv.ru/static/documents/zos4,5.pdf" target="_blank" style="" data-muse-uid="u496685" data-sizepolicy="fixed" data-pintopage="page_fixedcenter">
+          <div class="clearfix grpelem"   data-muse-uid="u496686" data-muse-type="txt_frame" data-sizepolicy="fixed" data-pintopage="page_fluidx">
+            <p>Заключение о соответствии построенного объекта. корпус № 4, 5 – 2 этап</p>
+          </div>
+        </a>
+
+        <a class="nonblock nontext Button clearfix grpelem"    href="http://dom-pozitiv.ru/static/documents/razresh_na_vvod.pdf" target="_blank" style="" data-muse-uid="U496685" data-sizepolicy="fixed" data-pintopage="page_fixedCenter">
+          <div class="clearfix grpelem"     data-muse-type="txt_frame" data-sizepolicy="fixed" data-pintopage="page_fluidx">
+            <p> Разрешение на ввод объекта в эксплуатацию (корпус 2)</p>
+          </div>
+        </a>
+
+        <a class="nonblock nontext Button clearfix grpelem"    href="http://dom-pozitiv.ru/static/documents/РВ к.3.pdf" target="_blank" style="" data-muse-uid="U496685" data-sizepolicy="fixed" data-pintopage="page_fixedCenter">
+          <div class="clearfix grpelem"     data-muse-type="txt_frame" data-sizepolicy="fixed" data-pintopage="page_fluidx">
+            <p> Разрешение на ввод объекта в эксплуатацию (корпус 3)</p>
+          </div>
+        </a>
+
+        <a class="nonblock nontext button clearfix grpelem"    href="http://dom-pozitiv.ru/static/documents/rv_rumyantsevo_4k.pdf" target="_blank" style="" data-muse-uid="u496685" data-sizepolicy="fixed" data-pintopage="page_fixedcenter">
+          <div class="clearfix grpelem"   data-muse-uid="u496686" data-muse-type="txt_frame" data-sizepolicy="fixed" data-pintopage="page_fluidx">
+            <p>Разрешение на вводобъекта в эксплуатацию (корпус 4)</p>
+          </div>
+        </a>
+
+        <a class="nonblock nontext button clearfix grpelem"    href="http://dom-pozitiv.ru/static/documents/rv_rumyantsevo_5k.pdf" target="_blank" style="" data-muse-uid="u496685" data-sizepolicy="fixed" data-pintopage="page_fixedcenter">
+          <div class="clearfix grpelem"   data-muse-uid="u496686" data-muse-type="txt_frame" data-sizepolicy="fixed" data-pintopage="page_fluidx">
+            <p> Разрешение на вводобъекта в эксплуатацию (корпус 5)</p></div>
+        </a>
+
+        <a class="nonblock nontext button clearfix grpelem"    href="http://dom-pozitiv.ru/static/documents/рв к.6.pdf" target="_blank" style="" data-muse-uid="u496685" data-sizepolicy="fixed" data-pintopage="page_fixedcenter">
+          <div class="clearfix grpelem"   data-muse-uid="u496686" data-muse-type="txt_frame" data-sizepolicy="fixed" data-pintopage="page_fluidx">
+            <p>Разрешение на ввод объекта в эксплуатацию (корпус 6)</p>
+          </div>
+        </a>
+
+        <a class="nonblock nontext button clearfix grpelem"    href="http://dom-pozitiv.ru/static/documents/zos-3-6k.pdf" target="_blank" style="" data-muse-uid="u496685" data-sizepolicy="fixed" data-pintopage="page_fixedcenter">
+          <div class="clearfix grpelem"   data-muse-uid="u496686" data-muse-type="txt_frame" data-sizepolicy="fixed" data-pintopage="page_fluidx">
+            <p> заключение о соответствии 3 и 6 корпуса</p>
+          </div>
+        </a>
+
+        <a class="nonblock nontext button clearfix grpelem"    href="http://dom-pozitiv.ru/static/documents/otchetnost-2017.pdf" target="_blank" style="" data-muse-uid="u496685" data-sizepolicy="fixed" data-pintopage="page_fixedcenter">
+          <div class="clearfix grpelem"   data-muse-uid="u496686" data-muse-type="txt_frame" data-sizepolicy="fixed" data-pintopage="page_fluidx">
+            <p> Бухгалтерский балансна 31.12.2017</p>
+          </div>
+        </a>
+
+        <a class="nonblock nontext button clearfix grpelem"    href="http://dom-pozitiv.ru/static/documents/1-kvartal-otchetnost.pdf" target="_blank" style="" data-muse-uid="u496685" data-sizepolicy="fixed" data-pintopage="page_fixedcenter">
+          <div class="clearfix grpelem"   data-muse-uid="u496686" data-muse-type="txt_frame" data-sizepolicy="fixed" data-pintopage="page_fluidx">
+            <p> Бухгалтерский баланс на 31.03.2018</p>
+          </div>
+        </a>
+
+        <a class="nonblock nontext button clearfix grpelem"    href="http://dom-pozitiv.ru/static/documents/bb30jule2018.pdf" target="_blank" style="" data-muse-uid="u496685" data-sizepolicy="fixed" data-pintopage="	page_fixedcenter">
+          <div class="clearfix grpelem"   data-muse-uid="u496686" data-muse-type="txt_frame" data-sizepolicy="fixed" data-pintopage="page_fluidx">
+            <p>Бухгалтерский балансна 30.06.2018</p>
+          </div>
+        </a>
+
+        <a class="nonblock nontext button clearfix grpelem"    href="http://dom-pozitiv.ru/static/documents/бухгалтерский баланс за 9 месяцев_2018 год.pdf" target="_blank" style="" data-muse-uid="u496685" data-sizepolicy="fixed" data-pintopage="page_fixedcenter">
+          <div class="clearfix grpelem"   data-muse-uid="u496686" data-muse-type="txt_frame" data-sizepolicy="fixed" data-pintopage="page_fluidx">
+            <p> Бухгалтерский баланс на 30.09.2018</p>
+          </div>
+        </a>
+
+        <a class="nonblock nontext button clearfix grpelem"    href="http://dom-pozitiv.ru/static/documents/vipiska-egrn.pdf" target="_blank" style="" data-muse-uid="u496685" data-sizepolicy="fixed" data-pintopage="page_fixedcenter">
+          <div class="clearfix grpelem"   data-muse-uid="u496686" data-muse-type="txt_frame" data-sizepolicy="fixed" data-pintopage="page_fluidx">
+            <p> Выписка по егрн</p>
+          </div>
+        </a>
+
+        <a class="nonblock nontext button clearfix grpelem"    href="http://dom-pozitiv.ru/static/documents/dlya-ddu-1.09.2018.doc" target="_blank" style="" data-muse-uid="u496685" data-sizepolicy="fixed" data-pintopage="page_fixedcenter">
+          <div class="clearfix grpelem"   data-muse-uid="u496686" data-muse-type="txt_frame" data-sizepolicy="fixed" data-pintopage="page_fluidx">
+            <p>Реквизиты расчетного счета застройщика для дду</p>
+          </div>
+        </a>
+
+        <a class="nonblock nontext button clearfix grpelem"    href="http://dom-pozitiv.ru/static/documents/gpzu-rumyantsevo.pdf" target="_blank" style="" data-muse-uid="u496685" data-sizepolicy="fixed" data-pintopage="page_fixedcenter">
+          <div class="clearfix grpelem"   data-muse-uid="u496686" data-muse-type="txt_frame" data-sizepolicy="fixed" data-pintopage="page_fluidx">
+            <p> Градостроительный план земельного участка</p>
+          </div>
+        </a>
+
+        <a class="nonblock nontext button clearfix grpelem"    href="http://dom-pozitiv.ru/static/documents/new-genplan-29.05.18.pdf" target="_blank" style="" data-muse-uid="u496685" data-sizepolicy="fixed" data-pintopage="page_fixedcenter">
+          <div class="clearfix grpelem"   data-muse-uid="u496686" data-muse-type="txt_frame" data-sizepolicy="fixed" data-pintopage="page_fluidx">
+            <p> Генплан</p>
+          </div>
+        </a>
+
+
+      </div>
+
+    </div>
+
+    <p class="documents-laws">В обеспечение исполнения обязательств Застройщика (залогодателя) по Договорам долевого участия с момента
+      государственной регистрации каждого Договора долевого участия у Участника долевого строительства (залогодержателя)
+      считаются находящимися в залоге принадлежащее Застройщику право аренды на Земельный участок общей площадью 58 713
+      (Пятьдесят восемь тысяч семьсот тринадцать) кв.м. с кадастровым номером 50:21:0110504:280, категория земель – земли
+      населенных пунктов, разрешенное использование: многоэтажная жилая застройка (высотная застройка), расположенном по
+      адресу: город Москва, НАО, п. Московский, вблизи д. Румянцево, участок 3/2, что подтверждается Договором аренды земельного
+      участка от 28 февраля 2014 года, зарегистрированным в Едином государственном реестре прав на недвижимое имущество и
+      сделок с ним «03» июля 2014 г. за № 77-77-17/052/2014-087, заключенным между Застройщиком и ЗАО «Технопарк Румянцево»
+      (место нахождения: 127006, г. Москва, ул. Малая Дмитровка, д. 7; зарегистрировано «19» мая 2006 г. Межрайонной инспекцией
+      Федеральной налоговой службы № 46 по г. Москве за Основным государственным регистрационным номером (ОГРН) 1067746609919;
+      ИНН 7720552872).. Участник долевого строительства извещен и согласен, что Земельный участок может быть в любое время
+      разделен в порядке, соответствующем действующему законодательству РФ по инициативе Застройщика. При этом в обеспечение
+      исполнения обязательств Застройщика переходит исключительно право аренды земельного участка, сформированного непосредственно
+      под Домом.</p>
+  </section>
+
+</div>
+
+  <script>
+
+    var menuOpen = document.querySelector(".header-trigger");
+    var menu = document.querySelector(".menu");
+    var menuClose = document.querySelector(".menu__close");
+
+    menuOpen.addEventListener("click", function(){
+      menu.classList.add("opened");
+    });
+
+    menuClose.addEventListener("click", function(evt){
+      evt.preventDefault();
+      menu.classList.remove("opened");
+    });
+
+  </script>
+
+</body>
+</html>
